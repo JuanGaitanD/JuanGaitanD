@@ -6,7 +6,7 @@ README de perfil de GitHub de Juan David Gaitán (`JuanGaitanD/JuanGaitanD`). Gi
 
 ## Archivos
 
-- `README.md`: perfil completo en español y en inglés, con el mismo contenido.
+- `README.md`: perfil completo en español (visible) y en inglés (dentro de un `<details>` plegado al final), con el mismo contenido.
 - `assets/header.svg`: banner propio con fondo opaco (paleta Glacial del portafolio), legible con el tema claro y el oscuro de GitHub.
 
 ## Fuente de verdad
@@ -15,10 +15,11 @@ El contenido sale del repositorio del portafolio (`src/content/es.ts`, `en.ts`, 
 
 ## Convenciones
 
-- Idioma: español neutro primero, inglés después, mismo contenido.
+- Idioma: español neutro visible, inglés en el desplegable `<details id="english">`, mismo contenido. Un cambio de datos se hace en las dos versiones.
 - Sin rayas largas, sin antítesis del tipo "no es X, es Y", sin adverbios de refuerzo ni relleno.
 - Sin tarjetas de estadísticas de terceros (github-readme-stats, streak-stats y similares).
-- Etiquetas (stack, encabezados de sección, redes, idioma) como SVG propios en `assets/stack/`, `assets/labels/`, `assets/social/` y `assets/lang/`, con el estilo de los chips y botones del portafolio y sus iconos (Simple Icons y Lucide). Chips y encabezados del stack tienen variante clara en `light/` (Glacial día) y se cargan con `<picture>` según el tema de GitHub. Sin servicios de terceros como skillicons.dev o shields.io.
+- Etiquetas de redes e idioma: SVG propios en `assets/social/` y `assets/lang/`, con el estilo de los botones del portafolio (Simple Icons y Lucide). Sin servicios de terceros como skillicons.dev o shields.io.
+- Stack: un SVG animado por idioma y tema en `assets/stack-anim/{es,en}-{dark,light}.svg` (CSS puro, ciclo de 14 s, lienzo de 440 px para que se lea en móvil), cargado con `<picture>` según el tema de GitHub. Respeta `prefers-reduced-motion`. No puede arrancar al entrar en la sección: un SVG dentro de `<img>` no tiene detector de scroll.
 - Todo `<img>` lleva `alt` descriptivo. El primer encabezado visible incluye "Juan David Gaitán".
 - Commits en Conventional Commits, en español.
 
