@@ -19,7 +19,7 @@ El contenido sale del repositorio del portafolio (`src/content/es.ts`, `en.ts`, 
 - Sin rayas largas, sin antítesis del tipo "no es X, es Y", sin adverbios de refuerzo ni relleno.
 - Sin tarjetas de estadísticas de terceros (github-readme-stats, streak-stats y similares).
 - Etiquetas de redes e idioma: SVG propios en `assets/social/` y `assets/lang/`, con el estilo de los botones del portafolio (Simple Icons y Lucide). Sin servicios de terceros como skillicons.dev o shields.io.
-- Stack: un SVG animado por idioma y tema en `assets/stack-anim/{es,en}-{dark,light}.svg` (CSS puro, ciclo de 14 s, lienzo de 440 px para que se lea en móvil), cargado con `<picture>` según el tema de GitHub. Respeta `prefers-reduced-motion`. No puede arrancar al entrar en la sección: un SVG dentro de `<img>` no tiene detector de scroll.
+- Stack: un SVG estático por idioma y tema en `assets/stack/{es,en}-{dark,light}.svg` (terminal `$ ls tech-stack/` con carpetas y chips, lienzo de 440 px para que se lea en móvil), alineado a la izquierda y cargado con `<picture>` según el tema de GitHub. Se descartó la animación.
 - Todo `<img>` lleva `alt` descriptivo. El primer encabezado visible incluye "Juan David Gaitán".
 - Commits en Conventional Commits, en español.
 
