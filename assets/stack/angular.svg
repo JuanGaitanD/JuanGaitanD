@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95 36" width="95" height="36" role="img" aria-labelledby="t d">
+  <title id="t">Angular</title>
+  <desc id="d">Etiqueta de tecnología: Angular</desc>
+  <rect x="2.5" y="2.5" width="90" height="31" rx="6" fill="#101b29" stroke="#1e3247"/>
+  <g transform="translate(12 10) scale(0.6666666666666666)" fill="#90a6ba"><path d="M16.712 17.711H7.288l-1.204 2.916L12 24l5.916-3.373-1.204-2.916ZM14.692 0l7.832 16.855.814-12.856L14.692 0ZM9.308 0 .662 3.999l.814 12.856L9.308 0Zm-.405 13.93h6.198L12 6.396 8.903 13.93Z"/></g>
+  <text x="36" y="22.5" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#e7eef4" textLength="44.8" lengthAdjust="spacingAndGlyphs">Angular</text>
+</svg>

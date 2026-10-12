@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 77 36" width="77" height="36" role="img" aria-labelledby="t d">
+  <title id="t">SQL</title>
+  <desc id="d">Etiqueta de tecnología: SQL</desc>
+  <rect x="2.5" y="2.5" width="72" height="31" rx="6" fill="#101b29" stroke="#1e3247"/>
+  <g transform="translate(12 10) scale(0.6666666666666666)" fill="none" stroke="#90a6ba" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/></g>
+  <text x="36" y="22.5" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#e7eef4" textLength="26.0" lengthAdjust="spacingAndGlyphs">SQL</text>
+</svg>

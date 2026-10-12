@@ -35,37 +35,80 @@ Soy Juan David Gaitán, arquitecto de software en Pereira, Colombia.
 <h3 align="center"><samp>$ ls tech-stack/</samp></h3>
 
 <p align="center"><samp>architecture/</samp></p>
-<p align="center"><img src="assets/stack/architecture-es.svg" alt="Arquitectura: Microservicios, Event-driven, Serverless, Mensajería asíncrona, APIs RESTful"/></p>
+<p align="center">
+  <img src="assets/stack/microservices-es.svg" alt="Microservicios"/>
+  <img src="assets/stack/event-driven.svg" alt="Event-driven"/>
+  <img src="assets/stack/serverless.svg" alt="Serverless"/>
+  <img src="assets/stack/messaging-es.svg" alt="Mensajería asíncrona"/>
+  <img src="assets/stack/rest-es.svg" alt="APIs RESTful"/>
+</p>
 
 <p align="center"><samp>cloud/</samp></p>
-<p align="center"><img src="assets/stack/cloud-es.svg" alt="Cloud e infra: Google Cloud Platform, Cloud Functions, Firebase, Azure, Kubernetes, Docker, VPS Linux, Cloudflare"/></p>
+<p align="center">
+  <img src="assets/stack/gcp.svg" alt="Google Cloud Platform"/>
+  <img src="assets/stack/cloud-functions.svg" alt="Cloud Functions"/>
+  <img src="assets/stack/firebase.svg" alt="Firebase"/>
+  <img src="assets/stack/azure.svg" alt="Azure"/>
+  <img src="assets/stack/kubernetes.svg" alt="Kubernetes"/>
+  <img src="assets/stack/docker.svg" alt="Docker"/>
+  <img src="assets/stack/linux-es.svg" alt="VPS Linux"/>
+  <img src="assets/stack/cloudflare.svg" alt="Cloudflare"/>
+</p>
 
 <p align="center"><samp>backend/</samp></p>
-<p align="center"><img src="assets/stack/backend-es.svg" alt="Backend: Node.js, Python, PHP, Java, WordPress, RabbitMQ"/></p>
+<p align="center">
+  <img src="assets/stack/nodejs.svg" alt="Node.js"/>
+  <img src="assets/stack/python.svg" alt="Python"/>
+  <img src="assets/stack/php.svg" alt="PHP"/>
+  <img src="assets/stack/java.svg" alt="Java"/>
+  <img src="assets/stack/wordpress.svg" alt="WordPress"/>
+  <img src="assets/stack/rabbitmq.svg" alt="RabbitMQ"/>
+</p>
 
 <p align="center"><samp>data/</samp></p>
-<p align="center"><img src="assets/stack/data-es.svg" alt="Datos: PostgreSQL, Supabase, Firestore, Búsqueda vectorial, MongoDB, SQL"/></p>
+<p align="center">
+  <img src="assets/stack/postgresql.svg" alt="PostgreSQL"/>
+  <img src="assets/stack/supabase.svg" alt="Supabase"/>
+  <img src="assets/stack/firestore.svg" alt="Firestore"/>
+  <img src="assets/stack/vector-search-es.svg" alt="Búsqueda vectorial"/>
+  <img src="assets/stack/mongodb.svg" alt="MongoDB"/>
+  <img src="assets/stack/sql.svg" alt="SQL"/>
+</p>
 
 <p align="center"><samp>ai-automation/</samp></p>
-<p align="center"><img src="assets/stack/ai-automation-es.svg" alt="IA y automatización: n8n, Integración de LLMs, Vertex AI, OCR, Google Apps Script, Prompt engineering"/></p>
+<p align="center">
+  <img src="assets/stack/n8n.svg" alt="n8n"/>
+  <img src="assets/stack/llm-es.svg" alt="Integración de LLMs"/>
+  <img src="assets/stack/vertex-ai.svg" alt="Vertex AI"/>
+  <img src="assets/stack/ocr.svg" alt="OCR"/>
+  <img src="assets/stack/apps-script.svg" alt="Google Apps Script"/>
+  <img src="assets/stack/prompting.svg" alt="Prompt engineering"/>
+</p>
 
 <p align="center"><samp>frontend/</samp></p>
-<p align="center"><img src="assets/stack/frontend-es.svg" alt="Frontend: Next.js, React, Angular, React Native, TypeScript, Tailwind CSS"/></p>
+<p align="center">
+  <img src="assets/stack/nextjs.svg" alt="Next.js"/>
+  <img src="assets/stack/react.svg" alt="React"/>
+  <img src="assets/stack/angular.svg" alt="Angular"/>
+  <img src="assets/stack/react-native.svg" alt="React Native"/>
+  <img src="assets/stack/typescript.svg" alt="TypeScript"/>
+  <img src="assets/stack/tailwind.svg" alt="Tailwind CSS"/>
+</p>
 
 ### Proyectos destacados
 
 Sistemas en los que trabajé, con mi parte en cada uno.
 
-| Proyecto | Qué es y mi parte | Enlaces |
-|---|---|---|
-| **Zephr** | SaaS que reúne en un solo buscador la información de varias autoridades de aviación. La base de directivas de aeronavegabilidad cubre seis autoridades (FAA, EASA, TC, ANAC Brasil, ANAC Argentina y DGAC Chile) y la comparte con Aeromate.<br/>**Mi parte:** actualizamos y optimizamos la base de datos y construimos la conexión con la API de la FAA. Las consultas quedaron 90% más rápidas.<br/><sub>Next.js · Python · Supabase · FAA API</sub> | [adscrapper.hyvento.co](https://adscrapper.hyvento.co/) |
-| **Aeromate**<br/><sub>En proceso</sub> | Pipeline serverless que identifica, organiza y procesa documentos aeronáuticos. Usa la misma base de directivas de Zephr. Es serverless porque los documentos llegan en ráfagas y un servidor encendido todo el día pagaría por tiempo ocioso.<br/>**Mi parte:** validación de fidelidad por OCR con métodos de fallback. Un trabajo de semanas queda en menos de un día.<br/><sub>GCP · Firebase Functions · Eventarc · Cloud Tasks · Vertex AI · PostgreSQL</sub> | [aeromate.hyvento.co](https://aeromate.hyvento.co/) |
-| **Ingenio Obra** | Plataforma de gestión de obra para constructoras que construimos para Ingenio Advice. Resolvimos el cuello de botella en la gestión de contratación y liquidación en obra, automatizamos las encuestas de salud y el Análisis de Trabajo Seguro (ATS), y automatizamos la bitácora diaria: SST y residentes envían texto, audio e imágenes por Telegram y el sistema genera los reportes.<br/>**Mi parte:** ingeniero de software principal. Desarrollé todos los módulos menos el de Encuestas de salud, que desarrolló otra persona.<br/><sub>WordPress · PHP · n8n · Telegram · IA</sub> | [dashboard.ingenioia.com](https://dashboard.ingenioia.com) |
-| **Moradia** | Agente inmobiliario que recibe lo que el cliente pide en lenguaje natural y le muestra los inmuebles que mejor encajan.<br/>**Mi parte:** el agente y su funcionamiento dentro de un plugin en PHP. El diseño es de otro equipo.<br/><sub>WordPress · PHP · Agente IA</sub> | [moradia.ai](https://www.moradia.ai/) |
-| **Fultr**<br/><sub>En proceso</sub> | Software de nodos logísticos para los centros comerciales de la línea Arauco.<br/>**Mi parte:** validar la arquitectura del sistema y llevarlo a una versión lista para producción. El diseño y la lógica de negocio son de otro equipo.<br/><sub>Next.js · PostgreSQL · Prisma · Cloudflare R2</sub> | [fultr.co](https://fultr.co/) |
-| **Solara para Techos Rentables**<br/><sub>1er lugar · TINKU Hackathon 2026</sub> | Monitoreo unificado de más de 200 proyectos solares en un solo dashboard, construido en 18 horas. Cloud Functions hace el polling a las APIs de los fabricantes y corre el motor de reglas. Detecta fallas en menos de 5 minutos, genera informes de cliente automáticos y elimina más de 130 horas al mes de trabajo manual.<br/>**Mi parte:** desarrollador backend. Construí el backend que sostiene la app web y consume las APIs de los fabricantes internacionales.<br/><sub>Next.js · Cloud Functions · Firestore · Deye · Huawei · Growatt</sub> | [Código](https://github.com/The-Tribu/tinku_team_ojala_hubiera_pasado_a_la_utp)<br/>[techosrentables.com](https://techosrentables.com)<br/>[Demo](https://solariapp.vercel.app/) |
-| **SIGBA**<br/><sub>En proceso</sub> | Sistema de información para bancos de alimentos. El Banco de Alimentos de Pereira, que opera la Fundación Cáritas de la Diócesis de Pereira, participa como cliente del piloto.<br/>**Mi parte, con mi equipo:** diseño y carga del directorio de instituciones, portal para el responsable de cada institución, registro nominal de beneficiarios con una sola membresía activa, alertas de duplicidad y caracterización derivada.<br/><sub>NestJS · React · PWA</sub> | Sin sitio público |
-| **Asesoría de arquitectura: tres APIs y un dashboard** | Asesoría para un equipo de más de cinco personas que construía tres APIs: gestión, caracterización y estadística. Microservicios con una base de datos por API, porque dos de ellas necesitaban escalar y desplegarse por separado. La API de estadística consume a las otras dos por mensajería asíncrona con RabbitMQ. He hecho otras asesorías de este tipo; esta es una muestra.<br/><sub>Azure · Kubernetes · RabbitMQ · Microservicios</sub> | Sin sitio público |
+| Proyecto | Qué es | Mi parte | Enlaces |
+|---|---|---|---|
+| **Zephr** | SaaS que reúne en un solo buscador la información de varias autoridades de aviación: FAA, EASA, TC, ANAC Brasil, ANAC Argentina y DGAC Chile.<br/><sub>Next.js · Python · Supabase · FAA API</sub> | Actualizamos y optimizamos la base de datos y construimos la conexión con la API de la FAA.<br/>**Consultas 90% más rápidas.** | [adscrapper.hyvento.co](https://adscrapper.hyvento.co/) |
+| **Aeromate**<br/><sub>En proceso</sub> | Pipeline serverless que identifica, organiza y procesa documentos aeronáuticos con la base de directivas de Zephr. Serverless porque los documentos llegan en ráfagas y un servidor encendido todo el día pagaría por tiempo ocioso.<br/><sub>GCP · Firebase Functions · Eventarc · Cloud Tasks · Vertex AI · PostgreSQL</sub> | Validación de fidelidad por OCR con métodos de fallback.<br/>**Un trabajo de semanas queda en menos de un día.** | [aeromate.hyvento.co](https://aeromate.hyvento.co/) |
+| **Ingenio Obra** | Plataforma de gestión de obra para constructoras, construida para Ingenio Advice. Resuelve el cuello de botella en contratación y liquidación, automatiza las encuestas de salud y el Análisis de Trabajo Seguro (ATS), y la bitácora diaria: SST y residentes envían texto, audio e imágenes por Telegram y el sistema genera los reportes.<br/><sub>WordPress · PHP · n8n · Telegram · IA</sub> | Ingeniero de software principal: todos los módulos menos Encuestas de salud, que desarrolló otra persona. | [dashboard.ingenioia.com](https://dashboard.ingenioia.com) |
+| **Moradia** | Agente inmobiliario que recibe lo que el cliente pide en lenguaje natural y le muestra los inmuebles que mejor encajan.<br/><sub>WordPress · PHP · Agente IA</sub> | El agente y su funcionamiento dentro de un plugin en PHP. El diseño es de otro equipo. | [moradia.ai](https://www.moradia.ai/) |
+| **Fultr**<br/><sub>En proceso</sub> | Software de nodos logísticos para los centros comerciales de la línea Arauco.<br/><sub>Next.js · PostgreSQL · Prisma · Cloudflare R2</sub> | Validar la arquitectura y llevarlo a una versión lista para producción. El diseño y la lógica de negocio son de otro equipo. | [fultr.co](https://fultr.co/) |
+| **Solara para Techos Rentables**<br/><sub>1er lugar · TINKU Hackathon 2026</sub> | Monitoreo unificado de más de 200 proyectos solares en un solo dashboard, construido en 18 horas. Cloud Functions consulta las APIs de los fabricantes y corre el motor de reglas. Genera informes de cliente automáticos.<br/><sub>Next.js · Cloud Functions · Firestore · Deye · Huawei · Growatt</sub> | Desarrollador backend: el backend que sostiene la app web y consume las APIs de los fabricantes internacionales.<br/>**Detecta fallas en menos de 5 minutos y elimina más de 130 horas al mes de trabajo manual.** | [Código](https://github.com/The-Tribu/tinku_team_ojala_hubiera_pasado_a_la_utp)<br/>[techosrentables.com](https://techosrentables.com)<br/>[Demo](https://solariapp.vercel.app/) |
+| **SIGBA**<br/><sub>En proceso</sub> | Sistema de información para bancos de alimentos. El Banco de Alimentos de Pereira, que opera la Fundación Cáritas de la Diócesis de Pereira, participa como cliente del piloto.<br/><sub>NestJS · React · PWA</sub> | Con mi equipo: directorio de instituciones, portal para el responsable de cada una, registro nominal de beneficiarios con una sola membresía activa, alertas de duplicidad y caracterización derivada. | Sin sitio público |
+| **Asesoría de arquitectura: tres APIs y un dashboard** | Asesoría para un equipo de más de cinco personas que construía tres APIs: gestión, caracterización y estadística. He hecho otras asesorías de este tipo; esta es una muestra.<br/><sub>Azure · Kubernetes · RabbitMQ · Microservicios</sub> | Microservicios con una base de datos por API, porque dos de ellas necesitaban escalar y desplegarse por separado. La API de estadística consume a las otras dos por mensajería asíncrona con RabbitMQ. | Sin sitio público |
 
 ### Open source
 
@@ -118,37 +161,80 @@ I'm Juan David Gaitán, a software architect based in Pereira, Colombia.
 <h3 align="center"><samp>$ ls tech-stack/</samp></h3>
 
 <p align="center"><samp>architecture/</samp></p>
-<p align="center"><img src="assets/stack/architecture-en.svg" alt="Architecture: Microservices, Event-driven, Serverless, Asynchronous messaging, RESTful APIs"/></p>
+<p align="center">
+  <img src="assets/stack/microservices-en.svg" alt="Microservices"/>
+  <img src="assets/stack/event-driven.svg" alt="Event-driven"/>
+  <img src="assets/stack/serverless.svg" alt="Serverless"/>
+  <img src="assets/stack/messaging-en.svg" alt="Asynchronous messaging"/>
+  <img src="assets/stack/rest-en.svg" alt="RESTful APIs"/>
+</p>
 
 <p align="center"><samp>cloud/</samp></p>
-<p align="center"><img src="assets/stack/cloud-en.svg" alt="Cloud and infra: Google Cloud Platform, Cloud Functions, Firebase, Azure, Kubernetes, Docker, Linux VPS, Cloudflare"/></p>
+<p align="center">
+  <img src="assets/stack/gcp.svg" alt="Google Cloud Platform"/>
+  <img src="assets/stack/cloud-functions.svg" alt="Cloud Functions"/>
+  <img src="assets/stack/firebase.svg" alt="Firebase"/>
+  <img src="assets/stack/azure.svg" alt="Azure"/>
+  <img src="assets/stack/kubernetes.svg" alt="Kubernetes"/>
+  <img src="assets/stack/docker.svg" alt="Docker"/>
+  <img src="assets/stack/linux-en.svg" alt="Linux VPS"/>
+  <img src="assets/stack/cloudflare.svg" alt="Cloudflare"/>
+</p>
 
 <p align="center"><samp>backend/</samp></p>
-<p align="center"><img src="assets/stack/backend-en.svg" alt="Backend: Node.js, Python, PHP, Java, WordPress, RabbitMQ"/></p>
+<p align="center">
+  <img src="assets/stack/nodejs.svg" alt="Node.js"/>
+  <img src="assets/stack/python.svg" alt="Python"/>
+  <img src="assets/stack/php.svg" alt="PHP"/>
+  <img src="assets/stack/java.svg" alt="Java"/>
+  <img src="assets/stack/wordpress.svg" alt="WordPress"/>
+  <img src="assets/stack/rabbitmq.svg" alt="RabbitMQ"/>
+</p>
 
 <p align="center"><samp>data/</samp></p>
-<p align="center"><img src="assets/stack/data-en.svg" alt="Data: PostgreSQL, Supabase, Firestore, Vector search, MongoDB, SQL"/></p>
+<p align="center">
+  <img src="assets/stack/postgresql.svg" alt="PostgreSQL"/>
+  <img src="assets/stack/supabase.svg" alt="Supabase"/>
+  <img src="assets/stack/firestore.svg" alt="Firestore"/>
+  <img src="assets/stack/vector-search-en.svg" alt="Vector search"/>
+  <img src="assets/stack/mongodb.svg" alt="MongoDB"/>
+  <img src="assets/stack/sql.svg" alt="SQL"/>
+</p>
 
 <p align="center"><samp>ai-automation/</samp></p>
-<p align="center"><img src="assets/stack/ai-automation-en.svg" alt="AI and automation: n8n, LLM integration, Vertex AI, OCR, Google Apps Script, Prompt engineering"/></p>
+<p align="center">
+  <img src="assets/stack/n8n.svg" alt="n8n"/>
+  <img src="assets/stack/llm-en.svg" alt="LLM integration"/>
+  <img src="assets/stack/vertex-ai.svg" alt="Vertex AI"/>
+  <img src="assets/stack/ocr.svg" alt="OCR"/>
+  <img src="assets/stack/apps-script.svg" alt="Google Apps Script"/>
+  <img src="assets/stack/prompting.svg" alt="Prompt engineering"/>
+</p>
 
 <p align="center"><samp>frontend/</samp></p>
-<p align="center"><img src="assets/stack/frontend-en.svg" alt="Frontend: Next.js, React, Angular, React Native, TypeScript, Tailwind CSS"/></p>
+<p align="center">
+  <img src="assets/stack/nextjs.svg" alt="Next.js"/>
+  <img src="assets/stack/react.svg" alt="React"/>
+  <img src="assets/stack/angular.svg" alt="Angular"/>
+  <img src="assets/stack/react-native.svg" alt="React Native"/>
+  <img src="assets/stack/typescript.svg" alt="TypeScript"/>
+  <img src="assets/stack/tailwind.svg" alt="Tailwind CSS"/>
+</p>
 
 ### Featured projects
 
 Systems I worked on, with my role in each one.
 
-| Project | What it is and my role | Links |
-|---|---|---|
-| **Zephr** | SaaS that brings data from several aviation authorities into a single search. The airworthiness directives database covers six authorities (FAA, EASA, TC, ANAC Brazil, ANAC Argentina and DGAC Chile) and is shared with Aeromate.<br/>**My role:** we updated and optimized the database and built the integration with the FAA API. Queries are 90% faster.<br/><sub>Next.js · Python · Supabase · FAA API</sub> | [adscrapper.hyvento.co](https://adscrapper.hyvento.co/) |
-| **Aeromate**<br/><sub>In progress</sub> | Serverless pipeline that identifies, organizes and processes aviation documents. It uses the same directives database as Zephr. It is serverless because documents arrive in bursts and a server running all day would pay for idle time.<br/>**My role:** OCR fidelity validation with fallback methods. Weeks of work done in under a day.<br/><sub>GCP · Firebase Functions · Eventarc · Cloud Tasks · Vertex AI · PostgreSQL</sub> | [aeromate.hyvento.co](https://aeromate.hyvento.co/) |
-| **Ingenio Obra** | Construction site management platform for builders that we built for Ingenio Advice. We removed the bottleneck in on-site hiring and payroll settlement, automated health surveys and the Job Safety Analysis (JSA), and automated the daily site log: safety staff and site managers send text, audio and images over Telegram and the system generates the reports.<br/>**My role:** lead software engineer. I built every module except Health Surveys, which another person built.<br/><sub>WordPress · PHP · n8n · Telegram · AI</sub> | [dashboard.ingenioia.com](https://dashboard.ingenioia.com) |
-| **Moradia** | Real estate agent that takes what the client asks for in natural language and shows the listings that fit best.<br/>**My role:** the agent and how it runs inside a PHP plugin. Another team did the design.<br/><sub>WordPress · PHP · AI agent</sub> | [moradia.ai](https://www.moradia.ai/) |
-| **Fultr**<br/><sub>In progress</sub> | Logistics node software for the Arauco line of shopping centers.<br/>**My role:** validate the system architecture and take it to a production-ready version. Another team owns the design and the business logic.<br/><sub>Next.js · PostgreSQL · Prisma · Cloudflare R2</sub> | [fultr.co](https://fultr.co/) |
-| **Solara for Techos Rentables**<br/><sub>1st place · TINKU Hackathon 2026</sub> | Unified monitoring of more than 200 solar projects in one dashboard, built in 18 hours. Cloud Functions polls the manufacturer APIs and runs the rules engine. It detects faults in under 5 minutes, generates automated client reports and removes more than 130 hours a month of manual work.<br/>**My role:** backend developer. I built the backend behind the web app, which consumes the APIs of international manufacturers.<br/><sub>Next.js · Cloud Functions · Firestore · Deye · Huawei · Growatt</sub> | [Code](https://github.com/The-Tribu/tinku_team_ojala_hubiera_pasado_a_la_utp)<br/>[techosrentables.com](https://techosrentables.com)<br/>[Demo](https://solariapp.vercel.app/) |
-| **SIGBA**<br/><sub>In progress</sub> | Information system for food banks. The Pereira Food Bank, run by the Cáritas Foundation of the Diocese of Pereira, takes part as the pilot client.<br/>**My role, with my team:** design and loading of the institutions directory, portal for the person in charge of each institution, named beneficiary registry with a single active membership, duplicate alerts and derived characterization.<br/><sub>NestJS · React · PWA</sub> | No public site |
-| **Architecture consulting: three APIs and a dashboard** | Consulting for a team of more than five people building three APIs: management, characterization and statistics. Microservices with one database per API, because two of them needed to scale and deploy on their own. The statistics API consumes the other two through asynchronous messaging with RabbitMQ. I have done other consulting work of this kind; this is one example.<br/><sub>Azure · Kubernetes · RabbitMQ · Microservices</sub> | No public site |
+| Project | What it is | My role | Links |
+|---|---|---|---|
+| **Zephr** | SaaS that brings data from several aviation authorities into a single search: FAA, EASA, TC, ANAC Brazil, ANAC Argentina and DGAC Chile.<br/><sub>Next.js · Python · Supabase · FAA API</sub> | We updated and optimized the database and built the integration with the FAA API.<br/>**Queries 90% faster.** | [adscrapper.hyvento.co](https://adscrapper.hyvento.co/) |
+| **Aeromate**<br/><sub>In progress</sub> | Serverless pipeline that identifies, organizes and processes aviation documents using the Zephr directives database. Serverless because documents arrive in bursts and a server running all day would pay for idle time.<br/><sub>GCP · Firebase Functions · Eventarc · Cloud Tasks · Vertex AI · PostgreSQL</sub> | OCR fidelity validation with fallback methods.<br/>**Weeks of work done in under a day.** | [aeromate.hyvento.co](https://aeromate.hyvento.co/) |
+| **Ingenio Obra** | Construction site management platform for builders, built for Ingenio Advice. It removes the bottleneck in hiring and payroll settlement, automates health surveys and the Job Safety Analysis (JSA), and the daily site log: safety staff and site managers send text, audio and images over Telegram and the system generates the reports.<br/><sub>WordPress · PHP · n8n · Telegram · AI</sub> | Lead software engineer: every module except Health Surveys, which another person built. | [dashboard.ingenioia.com](https://dashboard.ingenioia.com) |
+| **Moradia** | Real estate agent that takes what the client asks for in natural language and shows the listings that fit best.<br/><sub>WordPress · PHP · AI agent</sub> | The agent and how it runs inside a PHP plugin. Another team did the design. | [moradia.ai](https://www.moradia.ai/) |
+| **Fultr**<br/><sub>In progress</sub> | Logistics node software for the Arauco line of shopping centers.<br/><sub>Next.js · PostgreSQL · Prisma · Cloudflare R2</sub> | Validate the architecture and take it to a production-ready version. Another team owns the design and the business logic. | [fultr.co](https://fultr.co/) |
+| **Solara for Techos Rentables**<br/><sub>1st place · TINKU Hackathon 2026</sub> | Unified monitoring of more than 200 solar projects in one dashboard, built in 18 hours. Cloud Functions polls the manufacturer APIs and runs the rules engine. It generates automated client reports.<br/><sub>Next.js · Cloud Functions · Firestore · Deye · Huawei · Growatt</sub> | Backend developer: the backend behind the web app, which consumes the APIs of international manufacturers.<br/>**Detects faults in under 5 minutes and removes more than 130 hours a month of manual work.** | [Code](https://github.com/The-Tribu/tinku_team_ojala_hubiera_pasado_a_la_utp)<br/>[techosrentables.com](https://techosrentables.com)<br/>[Demo](https://solariapp.vercel.app/) |
+| **SIGBA**<br/><sub>In progress</sub> | Information system for food banks. The Pereira Food Bank, run by the Cáritas Foundation of the Diocese of Pereira, takes part as the pilot client.<br/><sub>NestJS · React · PWA</sub> | With my team: institutions directory, portal for the person in charge of each one, named beneficiary registry with a single active membership, duplicate alerts and derived characterization. | No public site |
+| **Architecture consulting: three APIs and a dashboard** | Consulting for a team of more than five people building three APIs: management, characterization and statistics. I have done other consulting work of this kind; this is one example.<br/><sub>Azure · Kubernetes · RabbitMQ · Microservices</sub> | Microservices with one database per API, because two of them needed to scale and deploy on their own. The statistics API consumes the other two through asynchronous messaging with RabbitMQ. | No public site |
 
 ### Open source
 

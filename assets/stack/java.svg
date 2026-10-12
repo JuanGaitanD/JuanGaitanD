@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 36" width="78" height="36" role="img" aria-labelledby="t d">
+  <title id="t">Java</title>
+  <desc id="d">Etiqueta de tecnología: Java</desc>
+  <rect x="2.5" y="2.5" width="73" height="31" rx="6" fill="#101b29" stroke="#1e3247"/>
+  <g transform="translate(12 10) scale(0.6666666666666666)" fill="none" stroke="#90a6ba" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v2"/><path d="M14 2v2"/><path d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1"/><path d="M6 2v2"/></g>
+  <text x="36" y="22.5" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#e7eef4" textLength="27.5" lengthAdjust="spacingAndGlyphs">Java</text>
+</svg>
