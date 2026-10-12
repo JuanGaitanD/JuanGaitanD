@@ -7,7 +7,7 @@ README de perfil de GitHub de Juan David Gaitán (`JuanGaitanD/JuanGaitanD`). Gi
 ## Archivos
 
 - `README.md`: perfil completo en español (visible) y en inglés (dentro de un `<details>` plegado al final), con el mismo contenido.
-- `assets/header.svg` y `assets/header-light.svg`: banner propio en paleta Glacial (oscuro) y Glacial día (claro), cargado con `<picture>` según el tema de GitHub.
+- `assets/header.svg` y `assets/header-light.svg`: banner propio en paleta Glacial (oscuro) y Glacial día (claro), cargado con `<picture>` según el tema de GitHub. El grafo de servicios está animado (SMIL y CSS, sin JavaScript) como el de `SectionGraph` del portafolio: las aristas crecen en ángulo recto, los nodos aparecen, viajan mensajes con estela, cada llegada lanza un anillo de pulso y un mensaje falla en rojo, parpadea y reintenta. Con `prefers-reduced-motion` se ve el grafo final sin mensajes. No incluye los easter eggs que dependen de la fecha o del clic (el viernes de `prod`, ping, chaos monkey).
 
 ## Fuente de verdad
 
