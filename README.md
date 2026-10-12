@@ -2,6 +2,8 @@
 
 <a href="https://juandgaitan.com/"><img src="assets/header.svg" width="100%" alt="Juan David Gaitán, arquitecto de software y cofundador de HYVENTO. Sitio web: juandgaitan.com"/></a>
 
+<img src="assets/profile.png" width="160" alt="Retrato de Juan David Gaitán, arquitecto de software, con gafas y cabello rizado"/>
+
 <h1>Juan David Gaitán</h1>
 
 <p>Arquitecto de software · Cofundador de HYVENTO · Pereira, Colombia<br/>Software architect · Co-founder of HYVENTO · Pereira, Colombia</p>
