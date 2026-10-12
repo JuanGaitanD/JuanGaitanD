@@ -36,7 +36,7 @@ Soy Juan David Gaitán, arquitecto de software en Pereira, Colombia.
 
 Herramientas que uso en mis proyectos.
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-anim/es-dark.svg"><img src="assets/stack-anim/es-light.svg" width="440" alt="Stack operativo. Arquitectura: Microservicios, Event-driven, Serverless, Mensajería asíncrona, APIs RESTful. Cloud e infra: Google Cloud Platform, Cloud Functions, Firebase, Azure, Kubernetes, Docker, VPS Linux, Cloudflare. Backend: Node.js, Python, PHP, Java, WordPress, RabbitMQ. Datos: PostgreSQL, Supabase, Firestore, Búsqueda vectorial, MongoDB, SQL. IA y automatización: n8n, Integración de LLMs, Vertex AI, OCR, Google Apps Script, Prompt engineering. Frontend: Next.js, React, Angular, React Native, TypeScript, Tailwind CSS"/></picture></p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/es-dark.svg"><img src="assets/stack/es-light.svg" width="440" alt="Stack operativo. Arquitectura: Microservicios, Event-driven, Serverless, Mensajería asíncrona, APIs RESTful. Cloud e infra: Google Cloud Platform, Cloud Functions, Firebase, Azure, Kubernetes, Docker, VPS Linux, Cloudflare. Backend: Node.js, Python, PHP, Java, WordPress, RabbitMQ. Datos: PostgreSQL, Supabase, Firestore, Búsqueda vectorial, MongoDB, SQL. IA y automatización: n8n, Integración de LLMs, Vertex AI, OCR, Google Apps Script, Prompt engineering. Frontend: Next.js, React, Angular, React Native, TypeScript, Tailwind CSS"/></picture>
 
 ### Proyectos destacados
 
@@ -104,7 +104,7 @@ I'm Juan David Gaitán, a software architect based in Pereira, Colombia.
 
 Tools I use in my projects.
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-anim/en-dark.svg"><img src="assets/stack-anim/en-light.svg" width="440" alt="Working stack. Architecture: Microservices, Event-driven, Serverless, Asynchronous messaging, RESTful APIs. Cloud and infra: Google Cloud Platform, Cloud Functions, Firebase, Azure, Kubernetes, Docker, Linux VPS, Cloudflare. Backend: Node.js, Python, PHP, Java, WordPress, RabbitMQ. Data: PostgreSQL, Supabase, Firestore, Vector search, MongoDB, SQL. AI and automation: n8n, LLM integration, Vertex AI, OCR, Google Apps Script, Prompt engineering. Frontend: Next.js, React, Angular, React Native, TypeScript, Tailwind CSS"/></picture></p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/en-dark.svg"><img src="assets/stack/en-light.svg" width="440" alt="Working stack. Architecture: Microservices, Event-driven, Serverless, Asynchronous messaging, RESTful APIs. Cloud and infra: Google Cloud Platform, Cloud Functions, Firebase, Azure, Kubernetes, Docker, Linux VPS, Cloudflare. Backend: Node.js, Python, PHP, Java, WordPress, RabbitMQ. Data: PostgreSQL, Supabase, Firestore, Vector search, MongoDB, SQL. AI and automation: n8n, LLM integration, Vertex AI, OCR, Google Apps Script, Prompt engineering. Frontend: Next.js, React, Angular, React Native, TypeScript, Tailwind CSS"/></picture>
 
 ### Featured projects
 
