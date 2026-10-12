@@ -32,67 +32,67 @@ Soy Juan David Gaitán, arquitecto de software en Pereira, Colombia.
 
 **Código público.** Mi GitHub reúne proyectos propios como StatLab, KallIt y utilidades de estadística y firma digital.
 
-<h3 align="center"><img src="assets/labels/tech-stack.svg" alt="$ ls tech-stack/"/></h3>
+<h3 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/tech-stack.svg"><img src="assets/labels/light/tech-stack.svg" alt="$ ls tech-stack/"/></picture></h3>
 
-<p align="center"><img src="assets/labels/architecture.svg" alt="architecture/"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/architecture.svg"><img src="assets/labels/light/architecture.svg" alt="architecture/"/></picture></p>
 <p align="center">
-  <img src="assets/stack/microservices-es.svg" alt="Microservicios"/>
-  <img src="assets/stack/event-driven.svg" alt="Event-driven"/>
-  <img src="assets/stack/serverless.svg" alt="Serverless"/>
-  <img src="assets/stack/messaging-es.svg" alt="Mensajería asíncrona"/>
-  <img src="assets/stack/rest-es.svg" alt="APIs RESTful"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/microservices-es.svg"><img src="assets/stack/light/microservices-es.svg" alt="Microservicios"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/event-driven.svg"><img src="assets/stack/light/event-driven.svg" alt="Event-driven"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/serverless.svg"><img src="assets/stack/light/serverless.svg" alt="Serverless"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/messaging-es.svg"><img src="assets/stack/light/messaging-es.svg" alt="Mensajería asíncrona"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/rest-es.svg"><img src="assets/stack/light/rest-es.svg" alt="APIs RESTful"/></picture>
 </p>
 
-<p align="center"><img src="assets/labels/cloud.svg" alt="cloud/"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/cloud.svg"><img src="assets/labels/light/cloud.svg" alt="cloud/"/></picture></p>
 <p align="center">
-  <img src="assets/stack/gcp.svg" alt="Google Cloud Platform"/>
-  <img src="assets/stack/cloud-functions.svg" alt="Cloud Functions"/>
-  <img src="assets/stack/firebase.svg" alt="Firebase"/>
-  <img src="assets/stack/azure.svg" alt="Azure"/>
-  <img src="assets/stack/kubernetes.svg" alt="Kubernetes"/>
-  <img src="assets/stack/docker.svg" alt="Docker"/>
-  <img src="assets/stack/linux-es.svg" alt="VPS Linux"/>
-  <img src="assets/stack/cloudflare.svg" alt="Cloudflare"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/gcp.svg"><img src="assets/stack/light/gcp.svg" alt="Google Cloud Platform"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cloud-functions.svg"><img src="assets/stack/light/cloud-functions.svg" alt="Cloud Functions"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/firebase.svg"><img src="assets/stack/light/firebase.svg" alt="Firebase"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/azure.svg"><img src="assets/stack/light/azure.svg" alt="Azure"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/kubernetes.svg"><img src="assets/stack/light/kubernetes.svg" alt="Kubernetes"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/docker.svg"><img src="assets/stack/light/docker.svg" alt="Docker"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/linux-es.svg"><img src="assets/stack/light/linux-es.svg" alt="VPS Linux"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cloudflare.svg"><img src="assets/stack/light/cloudflare.svg" alt="Cloudflare"/></picture>
 </p>
 
-<p align="center"><img src="assets/labels/backend.svg" alt="backend/"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/backend.svg"><img src="assets/labels/light/backend.svg" alt="backend/"/></picture></p>
 <p align="center">
-  <img src="assets/stack/nodejs.svg" alt="Node.js"/>
-  <img src="assets/stack/python.svg" alt="Python"/>
-  <img src="assets/stack/php.svg" alt="PHP"/>
-  <img src="assets/stack/java.svg" alt="Java"/>
-  <img src="assets/stack/wordpress.svg" alt="WordPress"/>
-  <img src="assets/stack/rabbitmq.svg" alt="RabbitMQ"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/nodejs.svg"><img src="assets/stack/light/nodejs.svg" alt="Node.js"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/python.svg"><img src="assets/stack/light/python.svg" alt="Python"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/php.svg"><img src="assets/stack/light/php.svg" alt="PHP"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/java.svg"><img src="assets/stack/light/java.svg" alt="Java"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/wordpress.svg"><img src="assets/stack/light/wordpress.svg" alt="WordPress"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/rabbitmq.svg"><img src="assets/stack/light/rabbitmq.svg" alt="RabbitMQ"/></picture>
 </p>
 
-<p align="center"><img src="assets/labels/data.svg" alt="data/"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/data.svg"><img src="assets/labels/light/data.svg" alt="data/"/></picture></p>
 <p align="center">
-  <img src="assets/stack/postgresql.svg" alt="PostgreSQL"/>
-  <img src="assets/stack/supabase.svg" alt="Supabase"/>
-  <img src="assets/stack/firestore.svg" alt="Firestore"/>
-  <img src="assets/stack/vector-search-es.svg" alt="Búsqueda vectorial"/>
-  <img src="assets/stack/mongodb.svg" alt="MongoDB"/>
-  <img src="assets/stack/sql.svg" alt="SQL"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/postgresql.svg"><img src="assets/stack/light/postgresql.svg" alt="PostgreSQL"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/supabase.svg"><img src="assets/stack/light/supabase.svg" alt="Supabase"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/firestore.svg"><img src="assets/stack/light/firestore.svg" alt="Firestore"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/vector-search-es.svg"><img src="assets/stack/light/vector-search-es.svg" alt="Búsqueda vectorial"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/mongodb.svg"><img src="assets/stack/light/mongodb.svg" alt="MongoDB"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/sql.svg"><img src="assets/stack/light/sql.svg" alt="SQL"/></picture>
 </p>
 
-<p align="center"><img src="assets/labels/ai-automation.svg" alt="ai-automation/"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/ai-automation.svg"><img src="assets/labels/light/ai-automation.svg" alt="ai-automation/"/></picture></p>
 <p align="center">
-  <img src="assets/stack/n8n.svg" alt="n8n"/>
-  <img src="assets/stack/llm-es.svg" alt="Integración de LLMs"/>
-  <img src="assets/stack/vertex-ai.svg" alt="Vertex AI"/>
-  <img src="assets/stack/ocr.svg" alt="OCR"/>
-  <img src="assets/stack/apps-script.svg" alt="Google Apps Script"/>
-  <img src="assets/stack/prompting.svg" alt="Prompt engineering"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/n8n.svg"><img src="assets/stack/light/n8n.svg" alt="n8n"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/llm-es.svg"><img src="assets/stack/light/llm-es.svg" alt="Integración de LLMs"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/vertex-ai.svg"><img src="assets/stack/light/vertex-ai.svg" alt="Vertex AI"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/ocr.svg"><img src="assets/stack/light/ocr.svg" alt="OCR"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/apps-script.svg"><img src="assets/stack/light/apps-script.svg" alt="Google Apps Script"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/prompting.svg"><img src="assets/stack/light/prompting.svg" alt="Prompt engineering"/></picture>
 </p>
 
-<p align="center"><img src="assets/labels/frontend.svg" alt="frontend/"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/frontend.svg"><img src="assets/labels/light/frontend.svg" alt="frontend/"/></picture></p>
 <p align="center">
-  <img src="assets/stack/nextjs.svg" alt="Next.js"/>
-  <img src="assets/stack/react.svg" alt="React"/>
-  <img src="assets/stack/angular.svg" alt="Angular"/>
-  <img src="assets/stack/react-native.svg" alt="React Native"/>
-  <img src="assets/stack/typescript.svg" alt="TypeScript"/>
-  <img src="assets/stack/tailwind.svg" alt="Tailwind CSS"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/nextjs.svg"><img src="assets/stack/light/nextjs.svg" alt="Next.js"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/react.svg"><img src="assets/stack/light/react.svg" alt="React"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/angular.svg"><img src="assets/stack/light/angular.svg" alt="Angular"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/react-native.svg"><img src="assets/stack/light/react-native.svg" alt="React Native"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/typescript.svg"><img src="assets/stack/light/typescript.svg" alt="TypeScript"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/tailwind.svg"><img src="assets/stack/light/tailwind.svg" alt="Tailwind CSS"/></picture>
 </p>
 
 ### Proyectos destacados
@@ -158,67 +158,67 @@ I'm Juan David Gaitán, a software architect based in Pereira, Colombia.
 
 **Public code.** My GitHub holds personal projects such as StatLab, KallIt and statistics and digital signature tools.
 
-<h3 align="center"><img src="assets/labels/tech-stack.svg" alt="$ ls tech-stack/"/></h3>
+<h3 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/tech-stack.svg"><img src="assets/labels/light/tech-stack.svg" alt="$ ls tech-stack/"/></picture></h3>
 
-<p align="center"><img src="assets/labels/architecture.svg" alt="architecture/"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/architecture.svg"><img src="assets/labels/light/architecture.svg" alt="architecture/"/></picture></p>
 <p align="center">
-  <img src="assets/stack/microservices-en.svg" alt="Microservices"/>
-  <img src="assets/stack/event-driven.svg" alt="Event-driven"/>
-  <img src="assets/stack/serverless.svg" alt="Serverless"/>
-  <img src="assets/stack/messaging-en.svg" alt="Asynchronous messaging"/>
-  <img src="assets/stack/rest-en.svg" alt="RESTful APIs"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/microservices-en.svg"><img src="assets/stack/light/microservices-en.svg" alt="Microservices"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/event-driven.svg"><img src="assets/stack/light/event-driven.svg" alt="Event-driven"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/serverless.svg"><img src="assets/stack/light/serverless.svg" alt="Serverless"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/messaging-en.svg"><img src="assets/stack/light/messaging-en.svg" alt="Asynchronous messaging"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/rest-en.svg"><img src="assets/stack/light/rest-en.svg" alt="RESTful APIs"/></picture>
 </p>
 
-<p align="center"><img src="assets/labels/cloud.svg" alt="cloud/"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/cloud.svg"><img src="assets/labels/light/cloud.svg" alt="cloud/"/></picture></p>
 <p align="center">
-  <img src="assets/stack/gcp.svg" alt="Google Cloud Platform"/>
-  <img src="assets/stack/cloud-functions.svg" alt="Cloud Functions"/>
-  <img src="assets/stack/firebase.svg" alt="Firebase"/>
-  <img src="assets/stack/azure.svg" alt="Azure"/>
-  <img src="assets/stack/kubernetes.svg" alt="Kubernetes"/>
-  <img src="assets/stack/docker.svg" alt="Docker"/>
-  <img src="assets/stack/linux-en.svg" alt="Linux VPS"/>
-  <img src="assets/stack/cloudflare.svg" alt="Cloudflare"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/gcp.svg"><img src="assets/stack/light/gcp.svg" alt="Google Cloud Platform"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cloud-functions.svg"><img src="assets/stack/light/cloud-functions.svg" alt="Cloud Functions"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/firebase.svg"><img src="assets/stack/light/firebase.svg" alt="Firebase"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/azure.svg"><img src="assets/stack/light/azure.svg" alt="Azure"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/kubernetes.svg"><img src="assets/stack/light/kubernetes.svg" alt="Kubernetes"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/docker.svg"><img src="assets/stack/light/docker.svg" alt="Docker"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/linux-en.svg"><img src="assets/stack/light/linux-en.svg" alt="Linux VPS"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cloudflare.svg"><img src="assets/stack/light/cloudflare.svg" alt="Cloudflare"/></picture>
 </p>
 
-<p align="center"><img src="assets/labels/backend.svg" alt="backend/"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/backend.svg"><img src="assets/labels/light/backend.svg" alt="backend/"/></picture></p>
 <p align="center">
-  <img src="assets/stack/nodejs.svg" alt="Node.js"/>
-  <img src="assets/stack/python.svg" alt="Python"/>
-  <img src="assets/stack/php.svg" alt="PHP"/>
-  <img src="assets/stack/java.svg" alt="Java"/>
-  <img src="assets/stack/wordpress.svg" alt="WordPress"/>
-  <img src="assets/stack/rabbitmq.svg" alt="RabbitMQ"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/nodejs.svg"><img src="assets/stack/light/nodejs.svg" alt="Node.js"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/python.svg"><img src="assets/stack/light/python.svg" alt="Python"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/php.svg"><img src="assets/stack/light/php.svg" alt="PHP"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/java.svg"><img src="assets/stack/light/java.svg" alt="Java"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/wordpress.svg"><img src="assets/stack/light/wordpress.svg" alt="WordPress"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/rabbitmq.svg"><img src="assets/stack/light/rabbitmq.svg" alt="RabbitMQ"/></picture>
 </p>
 
-<p align="center"><img src="assets/labels/data.svg" alt="data/"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/data.svg"><img src="assets/labels/light/data.svg" alt="data/"/></picture></p>
 <p align="center">
-  <img src="assets/stack/postgresql.svg" alt="PostgreSQL"/>
-  <img src="assets/stack/supabase.svg" alt="Supabase"/>
-  <img src="assets/stack/firestore.svg" alt="Firestore"/>
-  <img src="assets/stack/vector-search-en.svg" alt="Vector search"/>
-  <img src="assets/stack/mongodb.svg" alt="MongoDB"/>
-  <img src="assets/stack/sql.svg" alt="SQL"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/postgresql.svg"><img src="assets/stack/light/postgresql.svg" alt="PostgreSQL"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/supabase.svg"><img src="assets/stack/light/supabase.svg" alt="Supabase"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/firestore.svg"><img src="assets/stack/light/firestore.svg" alt="Firestore"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/vector-search-en.svg"><img src="assets/stack/light/vector-search-en.svg" alt="Vector search"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/mongodb.svg"><img src="assets/stack/light/mongodb.svg" alt="MongoDB"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/sql.svg"><img src="assets/stack/light/sql.svg" alt="SQL"/></picture>
 </p>
 
-<p align="center"><img src="assets/labels/ai-automation.svg" alt="ai-automation/"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/ai-automation.svg"><img src="assets/labels/light/ai-automation.svg" alt="ai-automation/"/></picture></p>
 <p align="center">
-  <img src="assets/stack/n8n.svg" alt="n8n"/>
-  <img src="assets/stack/llm-en.svg" alt="LLM integration"/>
-  <img src="assets/stack/vertex-ai.svg" alt="Vertex AI"/>
-  <img src="assets/stack/ocr.svg" alt="OCR"/>
-  <img src="assets/stack/apps-script.svg" alt="Google Apps Script"/>
-  <img src="assets/stack/prompting.svg" alt="Prompt engineering"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/n8n.svg"><img src="assets/stack/light/n8n.svg" alt="n8n"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/llm-en.svg"><img src="assets/stack/light/llm-en.svg" alt="LLM integration"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/vertex-ai.svg"><img src="assets/stack/light/vertex-ai.svg" alt="Vertex AI"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/ocr.svg"><img src="assets/stack/light/ocr.svg" alt="OCR"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/apps-script.svg"><img src="assets/stack/light/apps-script.svg" alt="Google Apps Script"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/prompting.svg"><img src="assets/stack/light/prompting.svg" alt="Prompt engineering"/></picture>
 </p>
 
-<p align="center"><img src="assets/labels/frontend.svg" alt="frontend/"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/labels/frontend.svg"><img src="assets/labels/light/frontend.svg" alt="frontend/"/></picture></p>
 <p align="center">
-  <img src="assets/stack/nextjs.svg" alt="Next.js"/>
-  <img src="assets/stack/react.svg" alt="React"/>
-  <img src="assets/stack/angular.svg" alt="Angular"/>
-  <img src="assets/stack/react-native.svg" alt="React Native"/>
-  <img src="assets/stack/typescript.svg" alt="TypeScript"/>
-  <img src="assets/stack/tailwind.svg" alt="Tailwind CSS"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/nextjs.svg"><img src="assets/stack/light/nextjs.svg" alt="Next.js"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/react.svg"><img src="assets/stack/light/react.svg" alt="React"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/angular.svg"><img src="assets/stack/light/angular.svg" alt="Angular"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/react-native.svg"><img src="assets/stack/light/react-native.svg" alt="React Native"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/typescript.svg"><img src="assets/stack/light/typescript.svg" alt="TypeScript"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/tailwind.svg"><img src="assets/stack/light/tailwind.svg" alt="Tailwind CSS"/></picture>
 </p>
 
 ### Featured projects

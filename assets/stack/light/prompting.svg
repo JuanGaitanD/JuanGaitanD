@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 164 36" width="164" height="36" role="img" aria-labelledby="t d">
+  <title id="t">Prompt engineering</title>
+  <desc id="d">Etiqueta de tecnología: Prompt engineering</desc>
+  <rect x="2.5" y="2.5" width="159" height="31" rx="6" fill="#e6eff3" stroke="#d1e0e8"/>
+  <g transform="translate(12 10) scale(0.6666666666666666)" fill="none" stroke="#4a6072" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19h8"/><path d="m4 17 6-6-6-6"/></g>
+  <text x="36" y="22.5" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#0b141f" textLength="113.4" lengthAdjust="spacingAndGlyphs">Prompt engineering</text>
+</svg>

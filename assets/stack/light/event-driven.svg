@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123 36" width="123" height="36" role="img" aria-labelledby="t d">
+  <title id="t">Event-driven</title>
+  <desc id="d">Etiqueta de tecnología: Event-driven</desc>
+  <rect x="2.5" y="2.5" width="118" height="31" rx="6" fill="#e6eff3" stroke="#d1e0e8"/>
+  <g transform="translate(12 10) scale(0.6666666666666666)" fill="none" stroke="#4a6072" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.9 16.1C1 12.2 1 5.8 4.9 1.9"/><path d="M7.8 4.7a6.14 6.14 0 0 0-.8 7.5"/><circle cx="12" cy="9" r="2"/><path d="M16.2 4.8c2 2 2.26 5.11.8 7.47"/><path d="M19.1 1.9a9.96 9.96 0 0 1 0 14.1"/><path d="M9.5 18h5"/><path d="m8 22 4-11 4 11"/></g>
+  <text x="36" y="22.5" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#0b141f" textLength="73.0" lengthAdjust="spacingAndGlyphs">Event-driven</text>
+</svg>
