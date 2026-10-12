@@ -105,7 +105,7 @@ Escríbeme para asesorías de arquitectura o propuestas de desarrollo.
 
 <div align="center">
 
-<a href="https://juandgaitan.com/"><img src="https://img.shields.io/badge/juandgaitan.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=web" alt="Sitio web de Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="https://img.shields.io/badge/in%2Fjuandavidgaitand-0b6b64?style=for-the-badge&labelColor=0b141f&label=LinkedIn" alt="LinkedIn de Juan David Gaitán"/></a>&nbsp;<a href="mailto:juandavidgaitandiaz@gmail.com"><img src="https://img.shields.io/badge/juandavidgaitandiaz%40gmail.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=correo" alt="Correo de Juan David Gaitán"/></a>&nbsp;<a href="https://cal.com/juan-gaitan/30min"><img src="https://img.shields.io/badge/30%20min-0b6b64?style=for-the-badge&labelColor=0b141f&label=agendar%20reuni%C3%B3n" alt="Agendar una reunión de 30 minutos con Juan David Gaitán"/></a>
+<a href="https://juandgaitan.com/"><img src="https://img.shields.io/badge/juandgaitan.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=web" alt="Sitio web de Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="https://img.shields.io/badge/in%2Fjuandavidgaitand-0b6b64?style=for-the-badge&labelColor=0b141f&label=LinkedIn" alt="LinkedIn de Juan David Gaitán"/></a>&nbsp;<a href="mailto:juandavidgaitandiaz@gmail.com"><img src="https://img.shields.io/badge/juandavidgaitandiaz%40gmail.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=correo" alt="Correo de Juan David Gaitán"/></a>
 
 </div>
 
@@ -206,7 +206,7 @@ Write to me for architecture consulting or development proposals.
 
 <div align="center">
 
-<a href="https://juandgaitan.com/"><img src="https://img.shields.io/badge/juandgaitan.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=web" alt="Website of Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="https://img.shields.io/badge/in%2Fjuandavidgaitand-0b6b64?style=for-the-badge&labelColor=0b141f&label=LinkedIn" alt="LinkedIn of Juan David Gaitán"/></a>&nbsp;<a href="mailto:juandavidgaitandiaz@gmail.com"><img src="https://img.shields.io/badge/juandavidgaitandiaz%40gmail.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=email" alt="Email of Juan David Gaitán"/></a>&nbsp;<a href="https://cal.com/juan-gaitan/30min"><img src="https://img.shields.io/badge/30%20min-0b6b64?style=for-the-badge&labelColor=0b141f&label=book%20a%20meeting" alt="Book a 30-minute meeting with Juan David Gaitán"/></a>
+<a href="https://juandgaitan.com/"><img src="https://img.shields.io/badge/juandgaitan.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=web" alt="Website of Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="https://img.shields.io/badge/in%2Fjuandavidgaitand-0b6b64?style=for-the-badge&labelColor=0b141f&label=LinkedIn" alt="LinkedIn of Juan David Gaitán"/></a>&nbsp;<a href="mailto:juandavidgaitandiaz@gmail.com"><img src="https://img.shields.io/badge/juandavidgaitandiaz%40gmail.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=email" alt="Email of Juan David Gaitán"/></a>
 
 </div>
 
