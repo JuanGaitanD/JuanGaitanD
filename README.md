@@ -8,11 +8,9 @@
 
 <p>Arquitecto de software · Cofundador de HYVENTO · Pereira, Colombia<br/>Software architect · Co-founder of HYVENTO · Pereira, Colombia</p>
 
-<a href="https://juandgaitan.com/"><img src="https://img.shields.io/badge/juandgaitan.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=web" alt="Sitio web de Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="https://img.shields.io/badge/in%2Fjuandavidgaitand-0b6b64?style=for-the-badge&labelColor=0b141f&label=LinkedIn" alt="LinkedIn de Juan David Gaitán"/></a>
+<a href="https://juandgaitan.com/"><img src="assets/social/web.svg" alt="Sitio web de Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="assets/social/linkedin.svg" alt="LinkedIn de Juan David Gaitán"/></a>
 
-<br/>
-
-<a href="#español"><img src="https://img.shields.io/badge/ES-Espa%C3%B1ol-0b6b64?style=flat-square&labelColor=0b141f" alt="Leer en español"/></a> &nbsp;·&nbsp; <a href="#english"><img src="https://img.shields.io/badge/EN-English-0b6b64?style=flat-square&labelColor=0b141f" alt="Read in English"/></a>
+<a href="#español"><img src="assets/lang/es.svg" alt="Leer en español"/></a>&nbsp;&nbsp;<a href="#english"><img src="assets/lang/en.svg" alt="Read in English"/></a>
 
 </div>
 
@@ -37,40 +35,22 @@ Soy Juan David Gaitán, arquitecto de software en Pereira, Colombia.
 <h3 align="center"><samp>$ ls tech-stack/</samp></h3>
 
 <p align="center"><samp>architecture/</samp></p>
-<p align="center"><sub>Microservicios · Event-driven · Serverless · Mensajería asíncrona · APIs RESTful</sub></p>
+<p align="center"><img src="assets/stack/architecture-es.svg" alt="Arquitectura: Microservicios, Event-driven, Serverless, Mensajería asíncrona, APIs RESTful"/></p>
 
 <p align="center"><samp>cloud/</samp></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,firebase,azure,kubernetes,docker,linux,cloudflare&theme=dark" alt="Google Cloud Platform, Firebase, Azure, Kubernetes, Docker, Linux, Cloudflare"/>
-</p>
-<p align="center"><sub>También: Cloud Functions</sub></p>
+<p align="center"><img src="assets/stack/cloud-es.svg" alt="Cloud e infra: Google Cloud Platform, Cloud Functions, Firebase, Azure, Kubernetes, Docker, VPS Linux, Cloudflare"/></p>
 
 <p align="center"><samp>backend/</samp></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,wordpress,rabbitmq&theme=dark" alt="Node.js, Python, PHP, Java, WordPress, RabbitMQ"/>
-</p>
+<p align="center"><img src="assets/stack/backend-es.svg" alt="Backend: Node.js, Python, PHP, Java, WordPress, RabbitMQ"/></p>
 
 <p align="center"><samp>data/</samp></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb&theme=dark" alt="PostgreSQL, Supabase, MongoDB"/>
-</p>
-<p align="center"><sub>También: Firestore · Búsqueda vectorial · SQL</sub></p>
+<p align="center"><img src="assets/stack/data-es.svg" alt="Datos: PostgreSQL, Supabase, Firestore, Búsqueda vectorial, MongoDB, SQL"/></p>
 
 <p align="center"><samp>ai-automation/</samp></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-0b6b64?style=flat-square&labelColor=0b141f&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Integración%20de%20LLMs-0b6b64?style=flat-square&labelColor=0b141f" alt="Integración de LLMs"/>
-  <img src="https://img.shields.io/badge/Vertex%20AI-0b6b64?style=flat-square&labelColor=0b141f" alt="Vertex AI"/>
-  <img src="https://img.shields.io/badge/OCR-0b6b64?style=flat-square&labelColor=0b141f" alt="OCR"/>
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-0b6b64?style=flat-square&labelColor=0b141f&logo=googleappsscript&logoColor=white" alt="Google Apps Script"/>
-  <img src="https://img.shields.io/badge/Prompt%20engineering-0b6b64?style=flat-square&labelColor=0b141f" alt="Prompt engineering"/>
-</p>
+<p align="center"><img src="assets/stack/ai-automation-es.svg" alt="IA y automatización: n8n, Integración de LLMs, Vertex AI, OCR, Google Apps Script, Prompt engineering"/></p>
 
 <p align="center"><samp>frontend/</samp></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind&theme=dark" alt="Next.js, React, Angular, TypeScript, Tailwind CSS"/>
-</p>
-<p align="center"><sub>También: React Native</sub></p>
+<p align="center"><img src="assets/stack/frontend-es.svg" alt="Frontend: Next.js, React, Angular, React Native, TypeScript, Tailwind CSS"/></p>
 
 ### Proyectos destacados
 
@@ -107,7 +87,7 @@ Escríbeme para asesorías de arquitectura o propuestas de desarrollo.
 
 <div align="center">
 
-<a href="https://juandgaitan.com/"><img src="https://img.shields.io/badge/juandgaitan.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=web" alt="Sitio web de Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="https://img.shields.io/badge/in%2Fjuandavidgaitand-0b6b64?style=for-the-badge&labelColor=0b141f&label=LinkedIn" alt="LinkedIn de Juan David Gaitán"/></a>&nbsp;<a href="mailto:juandavidgaitandiaz@gmail.com"><img src="https://img.shields.io/badge/juandavidgaitandiaz%40gmail.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=correo" alt="Correo de Juan David Gaitán"/></a>
+<a href="https://juandgaitan.com/"><img src="assets/social/web.svg" alt="Sitio web de Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="assets/social/linkedin.svg" alt="LinkedIn de Juan David Gaitán"/></a>&nbsp;<a href="mailto:juandavidgaitandiaz@gmail.com"><img src="assets/social/email.svg" alt="Correo de Juan David Gaitán"/></a>
 
 </div>
 
@@ -138,40 +118,22 @@ I'm Juan David Gaitán, a software architect based in Pereira, Colombia.
 <h3 align="center"><samp>$ ls tech-stack/</samp></h3>
 
 <p align="center"><samp>architecture/</samp></p>
-<p align="center"><sub>Microservices · Event-driven · Serverless · Asynchronous messaging · RESTful APIs</sub></p>
+<p align="center"><img src="assets/stack/architecture-en.svg" alt="Architecture: Microservices, Event-driven, Serverless, Asynchronous messaging, RESTful APIs"/></p>
 
 <p align="center"><samp>cloud/</samp></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,firebase,azure,kubernetes,docker,linux,cloudflare&theme=dark" alt="Google Cloud Platform, Firebase, Azure, Kubernetes, Docker, Linux, Cloudflare"/>
-</p>
-<p align="center"><sub>Also: Cloud Functions</sub></p>
+<p align="center"><img src="assets/stack/cloud-en.svg" alt="Cloud and infra: Google Cloud Platform, Cloud Functions, Firebase, Azure, Kubernetes, Docker, Linux VPS, Cloudflare"/></p>
 
 <p align="center"><samp>backend/</samp></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,wordpress,rabbitmq&theme=dark" alt="Node.js, Python, PHP, Java, WordPress, RabbitMQ"/>
-</p>
+<p align="center"><img src="assets/stack/backend-en.svg" alt="Backend: Node.js, Python, PHP, Java, WordPress, RabbitMQ"/></p>
 
 <p align="center"><samp>data/</samp></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb&theme=dark" alt="PostgreSQL, Supabase, MongoDB"/>
-</p>
-<p align="center"><sub>Also: Firestore · Vector search · SQL</sub></p>
+<p align="center"><img src="assets/stack/data-en.svg" alt="Data: PostgreSQL, Supabase, Firestore, Vector search, MongoDB, SQL"/></p>
 
 <p align="center"><samp>ai-automation/</samp></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-0b6b64?style=flat-square&labelColor=0b141f&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/LLM%20integration-0b6b64?style=flat-square&labelColor=0b141f" alt="LLM integration"/>
-  <img src="https://img.shields.io/badge/Vertex%20AI-0b6b64?style=flat-square&labelColor=0b141f" alt="Vertex AI"/>
-  <img src="https://img.shields.io/badge/OCR-0b6b64?style=flat-square&labelColor=0b141f" alt="OCR"/>
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-0b6b64?style=flat-square&labelColor=0b141f&logo=googleappsscript&logoColor=white" alt="Google Apps Script"/>
-  <img src="https://img.shields.io/badge/Prompt%20engineering-0b6b64?style=flat-square&labelColor=0b141f" alt="Prompt engineering"/>
-</p>
+<p align="center"><img src="assets/stack/ai-automation-en.svg" alt="AI and automation: n8n, LLM integration, Vertex AI, OCR, Google Apps Script, Prompt engineering"/></p>
 
 <p align="center"><samp>frontend/</samp></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind&theme=dark" alt="Next.js, React, Angular, TypeScript, Tailwind CSS"/>
-</p>
-<p align="center"><sub>Also: React Native</sub></p>
+<p align="center"><img src="assets/stack/frontend-en.svg" alt="Frontend: Next.js, React, Angular, React Native, TypeScript, Tailwind CSS"/></p>
 
 ### Featured projects
 
@@ -208,7 +170,7 @@ Write to me for architecture consulting or development proposals.
 
 <div align="center">
 
-<a href="https://juandgaitan.com/"><img src="https://img.shields.io/badge/juandgaitan.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=web" alt="Website of Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="https://img.shields.io/badge/in%2Fjuandavidgaitand-0b6b64?style=for-the-badge&labelColor=0b141f&label=LinkedIn" alt="LinkedIn of Juan David Gaitán"/></a>&nbsp;<a href="mailto:juandavidgaitandiaz@gmail.com"><img src="https://img.shields.io/badge/juandavidgaitandiaz%40gmail.com-0b6b64?style=for-the-badge&labelColor=0b141f&label=email" alt="Email of Juan David Gaitán"/></a>
+<a href="https://juandgaitan.com/"><img src="assets/social/web.svg" alt="Website of Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="assets/social/linkedin.svg" alt="LinkedIn of Juan David Gaitán"/></a>&nbsp;<a href="mailto:juandavidgaitandiaz@gmail.com"><img src="assets/social/email.svg" alt="Email of Juan David Gaitán"/></a>
 
 </div>
 
