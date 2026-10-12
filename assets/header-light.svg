@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Juan David Gaitán · Arquitecto de software · Software architect</title>
+  <desc id="d">Banner con las iniciales JG, el nombre Juan David Gaitán, el cargo de arquitecto de software y cofundador de HYVENTO, el dominio juandgaitan.com y un grafo de servicios (api, cdn, queue, worker, db, prod).</desc>
+  <!-- Paleta Glacial del portafolio. Fondo propio y opaco: se ve igual con el tema claro y el oscuro de GitHub. -->
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#8aa0b2" fill-opacity="0.45"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f3f8fa" stop-opacity="0.9"/>
+      <stop offset="0.55" stop-color="#f3f8fa" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="16" fill="#f3f8fa"/>
+  <rect width="1200" height="320" rx="16" fill="url(#dots)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#fade)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="15.5" fill="none" stroke="#d1e0e8"/>
+
+  <!-- Grafo de servicios -->
+  <g stroke="#1b9c92" stroke-opacity="0.55" stroke-width="1.5" fill="none">
+    <path d="M860 90 L960 170"/>
+    <path d="M1060 70 L960 170"/>
+    <path d="M960 170 L1100 190"/>
+    <path d="M960 170 L880 250"/>
+    <path d="M1100 190 L1050 265"/>
+    <path d="M880 250 L1050 265"/>
+  </g>
+  <g fill="#f3f8fa" stroke="#1b9c92" stroke-width="2">
+    <circle cx="860" cy="90" r="8"/>
+    <circle cx="1060" cy="70" r="8"/>
+    <circle cx="1100" cy="190" r="8"/>
+    <circle cx="880" cy="250" r="8"/>
+    <circle cx="1050" cy="265" r="8"/>
+  </g>
+  <circle cx="960" cy="170" r="12" fill="#1b9c92"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#4a6072">
+    <text x="876" y="86">api</text>
+    <text x="1076" y="66">cdn</text>
+    <text x="948" y="204">queue</text>
+    <text x="1116" y="195">worker</text>
+    <text x="896" y="272">db</text>
+    <text x="1066" y="291">prod</text>
+  </g>
+
+  <!-- Iniciales JG (mismo trazo que el icono del portafolio) -->
+  <g transform="translate(64 44) scale(1.75)">
+    <path d="M7 7h5v12.5a4.5 4.5 0 0 1-9 0M28.4 11.5A7 7 0 1 0 30 16.5h-6" fill="none" stroke="#0b141f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="64" y="172" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#0b141f">Juan David Gaitán</text>
+  <text x="66" y="218" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" fill="#4a6072">Arquitecto de software · Software architect</text>
+  <text x="66" y="268" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#1b9c92">juandgaitan.com · HYVENTO</text>
+</svg>

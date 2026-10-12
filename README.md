@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://juandgaitan.com/"><img src="assets/header.svg" width="100%" alt="Juan David Gaitán, arquitecto de software y cofundador de HYVENTO. Sitio web: juandgaitan.com"/></a>
+<a href="https://juandgaitan.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header.svg"><img src="assets/header-light.svg" width="100%" alt="Juan David Gaitán, arquitecto de software y cofundador de HYVENTO. Sitio web: juandgaitan.com"/></picture></a>
 
 <img src="assets/profile.png" width="160" alt="Retrato de Juan David Gaitán, arquitecto de software, con gafas y cabello rizado"/>
 
@@ -8,9 +8,9 @@
 
 <p>Arquitecto de software · Cofundador de HYVENTO · Pereira, Colombia<br/>Software architect · Co-founder of HYVENTO · Pereira, Colombia</p>
 
-<a href="https://juandgaitan.com/"><img src="assets/social/web.svg" alt="Sitio web de Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="assets/social/linkedin.svg" alt="LinkedIn de Juan David Gaitán"/></a>
+<a href="https://juandgaitan.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/web.svg"><img src="assets/social/light/web.svg" alt="Sitio web de Juan David Gaitán: juandgaitan.com"/></picture></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/linkedin.svg"><img src="assets/social/light/linkedin.svg" alt="LinkedIn de Juan David Gaitán"/></picture></a>
 
-<a href="#español"><img src="assets/lang/es.svg" alt="Leer en español"/></a>&nbsp;&nbsp;<a href="#english"><img src="assets/lang/en.svg" alt="Read in English"/></a>
+<a href="#español"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang/es.svg"><img src="assets/lang/light/es.svg" alt="Leer en español"/></picture></a>&nbsp;&nbsp;<a href="#english"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lang/en.svg"><img src="assets/lang/light/en.svg" alt="Read in English"/></picture></a>
 
 </div>
 
@@ -36,7 +36,7 @@ Soy Juan David Gaitán, arquitecto de software en Pereira, Colombia.
 
 Herramientas que uso en mis proyectos.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/es-dark.svg"><img src="assets/stack/es-light.svg" width="440" alt="Stack operativo. Arquitectura: Microservicios, Event-driven, Serverless, Mensajería asíncrona, APIs RESTful. Cloud e infra: Google Cloud Platform, Cloud Functions, Firebase, Azure, Kubernetes, Docker, VPS Linux, Cloudflare. Backend: Node.js, Python, PHP, Java, WordPress, RabbitMQ. Datos: PostgreSQL, Supabase, Firestore, Búsqueda vectorial, MongoDB, SQL. IA y automatización: n8n, Integración de LLMs, Vertex AI, OCR, Google Apps Script, Prompt engineering. Frontend: Next.js, React, Angular, React Native, TypeScript, Tailwind CSS"/></picture>
+<picture><source media="(min-width: 1100px) and (prefers-color-scheme: dark)" srcset="assets/stack/es-dark-wide.svg"><source media="(min-width: 1100px)" srcset="assets/stack/es-light-wide.svg"><source media="(min-width: 800px) and (prefers-color-scheme: dark)" srcset="assets/stack/es-dark-mid.svg"><source media="(min-width: 800px)" srcset="assets/stack/es-light-mid.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/stack/es-dark.svg"><img src="assets/stack/es-light.svg" alt="Stack operativo. Arquitectura: Microservicios, Event-driven, Serverless, Mensajería asíncrona, APIs RESTful. Cloud e infra: Google Cloud Platform, Cloud Functions, Firebase, Azure, Kubernetes, Docker, VPS Linux, Cloudflare. Backend: Node.js, Python, PHP, Java, WordPress, RabbitMQ. Datos: PostgreSQL, Supabase, Firestore, Búsqueda vectorial, MongoDB, SQL. IA y automatización: n8n, Integración de LLMs, Vertex AI, OCR, Google Apps Script, Prompt engineering. Frontend: Next.js, React, Angular, React Native, TypeScript, Tailwind CSS"/></picture>
 
 ### Proyectos destacados
 
@@ -73,7 +73,7 @@ Escríbeme para asesorías de arquitectura o propuestas de desarrollo.
 
 <div align="center">
 
-<a href="https://juandgaitan.com/"><img src="assets/social/web.svg" alt="Sitio web de Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="assets/social/linkedin.svg" alt="LinkedIn de Juan David Gaitán"/></a>&nbsp;<a href="mailto:juandavidgaitandiaz@gmail.com"><img src="assets/social/email.svg" alt="Correo de Juan David Gaitán"/></a>
+<a href="https://juandgaitan.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/web.svg"><img src="assets/social/light/web.svg" alt="Sitio web de Juan David Gaitán: juandgaitan.com"/></picture></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/linkedin.svg"><img src="assets/social/light/linkedin.svg" alt="LinkedIn de Juan David Gaitán"/></picture></a>&nbsp;<a href="mailto:juandavidgaitandiaz@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/email.svg"><img src="assets/social/light/email.svg" alt="Correo de Juan David Gaitán"/></picture></a>
 
 </div>
 
@@ -81,8 +81,6 @@ Escríbeme para asesorías de arquitectura o propuestas de desarrollo.
 
 <details id="english">
 <summary><b>English</b> · read this profile in English</summary>
-
-<br/>
 
 ### About me
 
@@ -104,7 +102,7 @@ I'm Juan David Gaitán, a software architect based in Pereira, Colombia.
 
 Tools I use in my projects.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/en-dark.svg"><img src="assets/stack/en-light.svg" width="440" alt="Working stack. Architecture: Microservices, Event-driven, Serverless, Asynchronous messaging, RESTful APIs. Cloud and infra: Google Cloud Platform, Cloud Functions, Firebase, Azure, Kubernetes, Docker, Linux VPS, Cloudflare. Backend: Node.js, Python, PHP, Java, WordPress, RabbitMQ. Data: PostgreSQL, Supabase, Firestore, Vector search, MongoDB, SQL. AI and automation: n8n, LLM integration, Vertex AI, OCR, Google Apps Script, Prompt engineering. Frontend: Next.js, React, Angular, React Native, TypeScript, Tailwind CSS"/></picture>
+<picture><source media="(min-width: 1100px) and (prefers-color-scheme: dark)" srcset="assets/stack/en-dark-wide.svg"><source media="(min-width: 1100px)" srcset="assets/stack/en-light-wide.svg"><source media="(min-width: 800px) and (prefers-color-scheme: dark)" srcset="assets/stack/en-dark-mid.svg"><source media="(min-width: 800px)" srcset="assets/stack/en-light-mid.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/stack/en-dark.svg"><img src="assets/stack/en-light.svg" alt="Working stack. Architecture: Microservices, Event-driven, Serverless, Asynchronous messaging, RESTful APIs. Cloud and infra: Google Cloud Platform, Cloud Functions, Firebase, Azure, Kubernetes, Docker, Linux VPS, Cloudflare. Backend: Node.js, Python, PHP, Java, WordPress, RabbitMQ. Data: PostgreSQL, Supabase, Firestore, Vector search, MongoDB, SQL. AI and automation: n8n, LLM integration, Vertex AI, OCR, Google Apps Script, Prompt engineering. Frontend: Next.js, React, Angular, React Native, TypeScript, Tailwind CSS"/></picture>
 
 ### Featured projects
 
@@ -141,7 +139,7 @@ Write to me for architecture consulting or development proposals.
 
 <div align="center">
 
-<a href="https://juandgaitan.com/"><img src="assets/social/web.svg" alt="Website of Juan David Gaitán: juandgaitan.com"/></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><img src="assets/social/linkedin.svg" alt="LinkedIn of Juan David Gaitán"/></a>&nbsp;<a href="mailto:juandavidgaitandiaz@gmail.com"><img src="assets/social/email.svg" alt="Email of Juan David Gaitán"/></a>
+<a href="https://juandgaitan.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/web.svg"><img src="assets/social/light/web.svg" alt="Website of Juan David Gaitán: juandgaitan.com"/></picture></a>&nbsp;<a href="https://www.linkedin.com/in/juandavidgaitand/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/linkedin.svg"><img src="assets/social/light/linkedin.svg" alt="LinkedIn of Juan David Gaitán"/></picture></a>&nbsp;<a href="mailto:juandavidgaitandiaz@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/email.svg"><img src="assets/social/light/email.svg" alt="Email of Juan David Gaitán"/></picture></a>
 
 </div>
 

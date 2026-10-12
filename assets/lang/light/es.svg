@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 40" width="128" height="40" role="img" aria-labelledby="t d">
+  <title id="t">Leer en español</title>
+  <desc id="d">Leer en español</desc>
+  <rect x="0.5" y="0.5" width="127" height="39" rx="19.5" fill="#e6eff3" stroke="#d1e0e8"/>
+  <g transform="translate(12 12) scale(0.6666666666666666)" fill="none" stroke="#1b9c92" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 8 6 6"/><path d="m4 14 6-6 2-3"/><path d="M2 5h12"/><path d="M7 2h1"/><path d="m22 22-5-10-5 10"/><path d="M14 18h6"/></g>
+  <text x="34" y="24.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#0b141f" textLength="79.2" lengthAdjust="spacingAndGlyphs">ES  Español</text>
+</svg>
