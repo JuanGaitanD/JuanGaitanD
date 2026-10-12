@@ -17,30 +17,151 @@
   <rect width="1200" height="320" rx="16" fill="url(#fade)"/>
   <rect x="0.5" y="0.5" width="1199" height="319" rx="15.5" fill="none" stroke="#d1e0e8"/>
 
-  <!-- Grafo de servicios -->
-  <g stroke="#1b9c92" stroke-opacity="0.55" stroke-width="1.5" fill="none">
-    <path d="M860 90 L960 170"/>
-    <path d="M1060 70 L960 170"/>
-    <path d="M960 170 L1100 190"/>
-    <path d="M960 170 L880 250"/>
-    <path d="M1100 190 L1050 265"/>
-    <path d="M880 250 L1050 265"/>
+  <!-- Grafo de servicios: las animaciones replican las de SectionGraph del portafolio -->
+  <style>
+    .g{fill:none;stroke:#1b9c92;stroke-opacity:.42;stroke-width:1.5;stroke-dasharray:1;stroke-dashoffset:1;animation:draw .48s cubic-bezier(.22,1,.36,1) forwards}
+    .n{opacity:0;animation:pop .3s ease-out forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    @keyframes pop{to{opacity:var(--o,1)}}
+    @media (prefers-reduced-motion: reduce){.g{animation:none;stroke-dashoffset:0}.n{animation:none;opacity:var(--o,1)}.pk{display:none}}
+  </style>
+  <g>
+    <path class="g" pathLength="1" d="M744 60 L876 60" style="animation-delay:0.35s"/>
+    <path class="g" pathLength="1" d="M876 60 L1020 60" style="animation-delay:0.55s"/>
+    <path class="g" pathLength="1" d="M876 60 L876 156" style="animation-delay:0.75s"/>
+    <path class="g" pathLength="1" d="M1020 60 L1140 60 L1140 108" style="animation-delay:0.95s"/>
+    <path class="g" pathLength="1" d="M876 156 L1020 156" style="animation-delay:1.15s"/>
+    <path class="g" pathLength="1" d="M1020 156 L1140 156 L1140 108" style="animation-delay:1.35s"/>
+    <path class="g" pathLength="1" d="M876 156 L876 252" style="animation-delay:1.55s"/>
+    <path class="g" pathLength="1" d="M876 252 L744 252" style="animation-delay:1.75s"/>
+    <path class="g" pathLength="1" d="M876 252 L1020 252" style="animation-delay:1.95s"/>
+    <path class="g" pathLength="1" d="M1020 156 L1020 252" style="animation-delay:2.15s"/>
+    <path class="g" pathLength="1" d="M1020 252 L1140 252" style="animation-delay:2.35s"/>
+    <path class="g" pathLength="1" d="M744 60 L744 252" style="animation-delay:2.55s"/>
   </g>
-  <g fill="#f3f8fa" stroke="#1b9c92" stroke-width="2">
-    <circle cx="860" cy="90" r="8"/>
-    <circle cx="1060" cy="70" r="8"/>
-    <circle cx="1100" cy="190" r="8"/>
-    <circle cx="880" cy="250" r="8"/>
-    <circle cx="1050" cy="265" r="8"/>
+  <g>
+    <rect class="n" x="740.5" y="56.5" width="7" height="7" rx="2" fill="#f3f8fa" stroke="#1b9c92" stroke-width="1.4" style="animation-delay:0.35s;--o:0.8"/>
+    <text class="n" x="732" y="64" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#1b9c92" style="animation-delay:0.45s;--o:0.72">api</text>
+    <rect class="n" x="871.5" y="55.5" width="9" height="9" rx="2" fill="#1b9c92" stroke="#1b9c92" stroke-width="0" style="animation-delay:0.35s;--o:0.9"/>
+    <text class="n" x="876" y="50" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#1b9c92" style="animation-delay:0.45s;--o:0.72">gateway</text>
+    <rect class="n" x="1016.5" y="56.5" width="7" height="7" rx="2" fill="#f3f8fa" stroke="#1b9c92" stroke-width="1.4" style="animation-delay:0.55s;--o:0.8"/>
+    <text class="n" x="1020" y="50" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#1b9c92" style="animation-delay:0.65s;--o:0.72">cdn</text>
+    <rect class="n" x="1136.5" y="104.5" width="7" height="7" rx="2" fill="#f3f8fa" stroke="#1b9c92" stroke-width="1.4" style="animation-delay:0.95s;--o:0.8"/>
+    <text class="n" x="1152" y="112" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#1b9c92" style="animation-delay:1.05s;--o:0.72">auth</text>
+    <rect class="n" x="871.5" y="151.5" width="9" height="9" rx="2" fill="#1b9c92" stroke="#1b9c92" stroke-width="0" style="animation-delay:0.75s;--o:0.9"/>
+    <text class="n" x="864" y="160" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#1b9c92" style="animation-delay:0.85s;--o:0.72">queue</text>
+    <rect class="n" x="1015.5" y="151.5" width="9" height="9" rx="2" fill="#1b9c92" stroke="#1b9c92" stroke-width="0" style="animation-delay:1.15s;--o:0.9"/>
+    <text class="n" x="1020" y="146" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#1b9c92" style="animation-delay:1.25s;--o:0.72">worker</text>
+    <rect class="n" x="740.5" y="248.5" width="7" height="7" rx="2" fill="#f3f8fa" stroke="#1b9c92" stroke-width="1.4" style="animation-delay:1.75s;--o:0.8"/>
+    <text class="n" x="744" y="276" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#1b9c92" style="animation-delay:1.85s;--o:0.72">db</text>
+    <rect class="n" x="871.5" y="247.5" width="9" height="9" rx="2" fill="#1b9c92" stroke="#1b9c92" stroke-width="0" style="animation-delay:1.55s;--o:0.9"/>
+    <text class="n" x="876" y="276" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#1b9c92" style="animation-delay:1.65s;--o:0.72">cache</text>
+    <rect class="n" x="1015.5" y="247.5" width="9" height="9" rx="2" fill="#1b9c92" stroke="#1b9c92" stroke-width="0" style="animation-delay:1.95s;--o:0.9"/>
+    <text class="n" x="1020" y="276" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#1b9c92" style="animation-delay:2.05s;--o:0.72">prod</text>
+    <rect class="n" x="1136.5" y="248.5" width="7" height="7" rx="2" fill="#f3f8fa" stroke="#1b9c92" stroke-width="1.4" style="animation-delay:2.35s;--o:0.8"/>
+    <text class="n" x="1152" y="256" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#1b9c92" style="animation-delay:2.45s;--o:0.72">ocr</text>
   </g>
-  <circle cx="960" cy="170" r="12" fill="#1b9c92"/>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#4a6072">
-    <text x="876" y="86">api</text>
-    <text x="1076" y="66">cdn</text>
-    <text x="948" y="204">queue</text>
-    <text x="1116" y="195">worker</text>
-    <text x="896" y="272">db</text>
-    <text x="1066" y="291">prod</text>
+  <g>
+    <g class="pk"><g>
+      <animate attributeName="opacity" calcMode="discrete" values="1;0;0" keyTimes="0;0.65;1" dur="9s" begin="3.25s" repeatCount="indefinite"/>
+      <path d="M744 60 L876 60 L876 156 L876 252 L1020 252" fill="none" stroke="#1b9c92" stroke-width="1.8" stroke-opacity="0.85" stroke-dasharray="28 496" stroke-dashoffset="28">
+        <animate attributeName="stroke-dashoffset" values="28;-440;-440" keyTimes="0;0.65;1" dur="9s" begin="3.25s" repeatCount="indefinite"/>
+      </path>
+      <circle r="9" fill="#1b9c92" fill-opacity="0.22"><animateMotion path="M744 60 L876 60 L876 156 L876 252 L1020 252" keyPoints="0;1;1" keyTimes="0;0.65;1" calcMode="linear" dur="9s" begin="3.25s" repeatCount="indefinite"/></circle>
+      <circle r="3" fill="#1b9c92"><animateMotion path="M744 60 L876 60 L876 156 L876 252 L1020 252" keyPoints="0;1;1" keyTimes="0;0.65;1" calcMode="linear" dur="9s" begin="3.25s" repeatCount="indefinite"/></circle>
+    </g>
+      <circle cx="876" cy="60" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.1;1" dur="9s" begin="4.9s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.1;1" dur="9s" begin="4.9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="876" cy="156" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.1;1" dur="9s" begin="6.1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.1;1" dur="9s" begin="6.1s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="876" cy="252" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.1;1" dur="9s" begin="7.3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.1;1" dur="9s" begin="7.3s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1020" cy="252" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.1;1" dur="9s" begin="9.1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.1;1" dur="9s" begin="9.1s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g class="pk"><g>
+      <animate attributeName="opacity" calcMode="discrete" values="1;0;0" keyTimes="0;0.56;1" dur="8s" begin="4.55s" repeatCount="indefinite"/>
+      <path d="M1140 252 L1020 252 L1020 156 L876 156" fill="none" stroke="#1b9c92" stroke-width="1.8" stroke-opacity="0.85" stroke-dasharray="28 388" stroke-dashoffset="28">
+        <animate attributeName="stroke-dashoffset" values="28;-332;-332" keyTimes="0;0.56;1" dur="8s" begin="4.55s" repeatCount="indefinite"/>
+      </path>
+      <circle r="9" fill="#1b9c92" fill-opacity="0.22"><animateMotion path="M1140 252 L1020 252 L1020 156 L876 156" keyPoints="0;1;1" keyTimes="0;0.56;1" calcMode="linear" dur="8s" begin="4.55s" repeatCount="indefinite"/></circle>
+      <circle r="3" fill="#1b9c92"><animateMotion path="M1140 252 L1020 252 L1020 156 L876 156" keyPoints="0;1;1" keyTimes="0;0.56;1" calcMode="linear" dur="8s" begin="4.55s" repeatCount="indefinite"/></circle>
+    </g>
+      <circle cx="1020" cy="252" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.11;1" dur="8s" begin="6.05s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.11;1" dur="8s" begin="6.05s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1020" cy="156" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.11;1" dur="8s" begin="7.25s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.11;1" dur="8s" begin="7.25s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="876" cy="156" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.11;1" dur="8s" begin="9.05s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.11;1" dur="8s" begin="9.05s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g class="pk"><g>
+      <animate attributeName="opacity" calcMode="discrete" values="1;0;0" keyTimes="0;0.54;1" dur="10s" begin="5.35s" repeatCount="indefinite"/>
+      <path d="M1020 60 L1140 60 L1140 156 L1020 156 L1020 252" fill="none" stroke="#1b9c92" stroke-width="1.8" stroke-opacity="0.85" stroke-dasharray="28 460" stroke-dashoffset="28">
+        <animate attributeName="stroke-dashoffset" values="28;-404;-404" keyTimes="0;0.54;1" dur="10s" begin="5.35s" repeatCount="indefinite"/>
+      </path>
+      <circle r="9" fill="#1b9c92" fill-opacity="0.22"><animateMotion path="M1020 60 L1140 60 L1140 156 L1020 156 L1020 252" keyPoints="0;1;1" keyTimes="0;0.54;1" calcMode="linear" dur="10s" begin="5.35s" repeatCount="indefinite"/></circle>
+      <circle r="3" fill="#1b9c92"><animateMotion path="M1020 60 L1140 60 L1140 156 L1020 156 L1020 252" keyPoints="0;1;1" keyTimes="0;0.54;1" calcMode="linear" dur="10s" begin="5.35s" repeatCount="indefinite"/></circle>
+    </g>
+      <circle cx="1020" cy="156" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.09;1" dur="10s" begin="9.55s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.09;1" dur="10s" begin="9.55s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1020" cy="252" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.09;1" dur="10s" begin="10.75s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.09;1" dur="10s" begin="10.75s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g class="pk"><g>
+      <animate attributeName="opacity" calcMode="discrete" values="1;0;0" keyTimes="0;0.53;1" dur="11s" begin="6.65s" repeatCount="indefinite"/>
+      <path d="M744 252 L876 252 L876 156 L876 60 L1020 60" fill="none" stroke="#1b9c92" stroke-width="1.8" stroke-opacity="0.85" stroke-dasharray="28 496" stroke-dashoffset="28">
+        <animate attributeName="stroke-dashoffset" values="28;-440;-440" keyTimes="0;0.53;1" dur="11s" begin="6.65s" repeatCount="indefinite"/>
+      </path>
+      <circle r="9" fill="#1b9c92" fill-opacity="0.22"><animateMotion path="M744 252 L876 252 L876 156 L876 60 L1020 60" keyPoints="0;1;1" keyTimes="0;0.53;1" calcMode="linear" dur="11s" begin="6.65s" repeatCount="indefinite"/></circle>
+      <circle r="3" fill="#1b9c92"><animateMotion path="M744 252 L876 252 L876 156 L876 60 L1020 60" keyPoints="0;1;1" keyTimes="0;0.53;1" calcMode="linear" dur="11s" begin="6.65s" repeatCount="indefinite"/></circle>
+    </g>
+      <circle cx="876" cy="252" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.08;1" dur="11s" begin="8.3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.08;1" dur="11s" begin="8.3s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="876" cy="156" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.08;1" dur="11s" begin="9.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.08;1" dur="11s" begin="9.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="876" cy="60" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.08;1" dur="11s" begin="10.7s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.08;1" dur="11s" begin="10.7s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1020" cy="60" r="5" fill="none" stroke="#1b9c92" stroke-width="1" opacity="0">
+        <animate attributeName="r" values="5;20;20" keyTimes="0;0.08;1" dur="11s" begin="12.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0" keyTimes="0;0.08;1" dur="11s" begin="12.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g class="pk">
+      <circle r="9" fill="#1b9c92" fill-opacity="0.22">
+        <animateMotion path="M876 156 L1020 156" keyPoints="0;0.45;0.45;0;1;1" keyTimes="0;0.06;0.11;0.17;0.31;1" calcMode="linear" dur="13s" begin="7.85s" repeatCount="indefinite"/>
+        <animate attributeName="fill" calcMode="discrete" values="#1b9c92;#b42318;#b42318;#1b9c92;#1b9c92;#1b9c92" keyTimes="0;0.06;0.11;0.17;0.31;1" dur="13s" begin="7.85s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" calcMode="discrete" values="1;1;0.25;1;0.25;1;0.25;1;0;0" keyTimes="0;0.06;0.07;0.08;0.09;0.1;0.1;0.11;0.31;1" dur="13s" begin="7.85s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="3.2" fill="#1b9c92" fill-opacity="1">
+        <animateMotion path="M876 156 L1020 156" keyPoints="0;0.45;0.45;0;1;1" keyTimes="0;0.06;0.11;0.17;0.31;1" calcMode="linear" dur="13s" begin="7.85s" repeatCount="indefinite"/>
+        <animate attributeName="fill" calcMode="discrete" values="#1b9c92;#b42318;#b42318;#1b9c92;#1b9c92;#1b9c92" keyTimes="0;0.06;0.11;0.17;0.31;1" dur="13s" begin="7.85s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" calcMode="discrete" values="1;1;0.25;1;0.25;1;0.25;1;0;0" keyTimes="0;0.06;0.07;0.08;0.09;0.1;0.1;0.11;0.31;1" dur="13s" begin="7.85s" repeatCount="indefinite"/>
+      </circle>
+    </g>
   </g>
 
   <!-- Iniciales JG (mismo trazo que el icono del portafolio) -->
