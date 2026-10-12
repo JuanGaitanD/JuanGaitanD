@@ -18,7 +18,7 @@ El contenido sale del repositorio del portafolio (`src/content/es.ts`, `en.ts`, 
 - Idioma: español neutro primero, inglés después, mismo contenido.
 - Sin rayas largas, sin antítesis del tipo "no es X, es Y", sin adverbios de refuerzo ni relleno.
 - Sin tarjetas de estadísticas de terceros (github-readme-stats, streak-stats y similares).
-- Iconos del stack con `skillicons.dev`; lo que no cubre va como badge de shields.io con logo de Simple Icons o como texto.
+- Etiquetas (stack, redes, idioma) como SVG propios en `assets/stack/`, `assets/social/` y `assets/lang/`, con el estilo de los chips y botones del portafolio y sus iconos (Simple Icons y Lucide). Sin servicios de terceros como skillicons.dev o shields.io.
 - Todo `<img>` lleva `alt` descriptivo. El primer encabezado visible incluye "Juan David Gaitán".
 - Commits en Conventional Commits, en español.
 

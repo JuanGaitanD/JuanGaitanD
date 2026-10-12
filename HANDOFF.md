@@ -11,6 +11,6 @@ README bilingüe, banner y foto de perfil.
 ## Decisiones
 
 - Sin teléfono en el README: un perfil público lo expone a scraping.
-- Iconos: ningún set cubre todo el stack. `skillicons.dev` cubre casi todo, pero n8n sale vacío; n8n y el bloque de IA van como badges de shields.io con logo de Simple Icons. Arquitectura y algunos servicios (Cloud Functions, Firestore, SQL, búsqueda vectorial, React Native) van como texto.
+- Etiquetas: SVG propios generados con la paleta Glacial y los iconos del portafolio (chips del stack, píldoras de redes e idioma). Reemplazan a skillicons.dev y shields.io, que dejaban n8n vacío y dependían de terceros. Los SVG se generaron con un script fuera del repo; para agregar una tecnología hay que regenerar su fila en `assets/stack/`.
 - Cal.com va solo en el portafolio, no en el README.
 - Foto: retrato editado con Nano Banana 2.1, recortado en círculo (`assets/profile.png`, 480 px, esquinas transparentes para que se vea igual en ambos temas de GitHub).
