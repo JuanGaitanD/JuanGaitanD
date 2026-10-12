@@ -32,9 +32,9 @@ Soy Juan David Gaitán, arquitecto de software en Pereira, Colombia.
 
 **Código público.** Mi GitHub reúne proyectos propios como StatLab, KallIt y utilidades de estadística y firma digital.
 
-<h3 align="center"><samp>$ ls tech-stack/</samp></h3>
+<h3 align="center"><img src="assets/labels/tech-stack.svg" alt="$ ls tech-stack/"/></h3>
 
-<p align="center"><samp>architecture/</samp></p>
+<p align="center"><img src="assets/labels/architecture.svg" alt="architecture/"/></p>
 <p align="center">
   <img src="assets/stack/microservices-es.svg" alt="Microservicios"/>
   <img src="assets/stack/event-driven.svg" alt="Event-driven"/>
@@ -43,7 +43,7 @@ Soy Juan David Gaitán, arquitecto de software en Pereira, Colombia.
   <img src="assets/stack/rest-es.svg" alt="APIs RESTful"/>
 </p>
 
-<p align="center"><samp>cloud/</samp></p>
+<p align="center"><img src="assets/labels/cloud.svg" alt="cloud/"/></p>
 <p align="center">
   <img src="assets/stack/gcp.svg" alt="Google Cloud Platform"/>
   <img src="assets/stack/cloud-functions.svg" alt="Cloud Functions"/>
@@ -55,7 +55,7 @@ Soy Juan David Gaitán, arquitecto de software en Pereira, Colombia.
   <img src="assets/stack/cloudflare.svg" alt="Cloudflare"/>
 </p>
 
-<p align="center"><samp>backend/</samp></p>
+<p align="center"><img src="assets/labels/backend.svg" alt="backend/"/></p>
 <p align="center">
   <img src="assets/stack/nodejs.svg" alt="Node.js"/>
   <img src="assets/stack/python.svg" alt="Python"/>
@@ -65,7 +65,7 @@ Soy Juan David Gaitán, arquitecto de software en Pereira, Colombia.
   <img src="assets/stack/rabbitmq.svg" alt="RabbitMQ"/>
 </p>
 
-<p align="center"><samp>data/</samp></p>
+<p align="center"><img src="assets/labels/data.svg" alt="data/"/></p>
 <p align="center">
   <img src="assets/stack/postgresql.svg" alt="PostgreSQL"/>
   <img src="assets/stack/supabase.svg" alt="Supabase"/>
@@ -75,7 +75,7 @@ Soy Juan David Gaitán, arquitecto de software en Pereira, Colombia.
   <img src="assets/stack/sql.svg" alt="SQL"/>
 </p>
 
-<p align="center"><samp>ai-automation/</samp></p>
+<p align="center"><img src="assets/labels/ai-automation.svg" alt="ai-automation/"/></p>
 <p align="center">
   <img src="assets/stack/n8n.svg" alt="n8n"/>
   <img src="assets/stack/llm-es.svg" alt="Integración de LLMs"/>
@@ -85,7 +85,7 @@ Soy Juan David Gaitán, arquitecto de software en Pereira, Colombia.
   <img src="assets/stack/prompting.svg" alt="Prompt engineering"/>
 </p>
 
-<p align="center"><samp>frontend/</samp></p>
+<p align="center"><img src="assets/labels/frontend.svg" alt="frontend/"/></p>
 <p align="center">
   <img src="assets/stack/nextjs.svg" alt="Next.js"/>
   <img src="assets/stack/react.svg" alt="React"/>
@@ -158,9 +158,9 @@ I'm Juan David Gaitán, a software architect based in Pereira, Colombia.
 
 **Public code.** My GitHub holds personal projects such as StatLab, KallIt and statistics and digital signature tools.
 
-<h3 align="center"><samp>$ ls tech-stack/</samp></h3>
+<h3 align="center"><img src="assets/labels/tech-stack.svg" alt="$ ls tech-stack/"/></h3>
 
-<p align="center"><samp>architecture/</samp></p>
+<p align="center"><img src="assets/labels/architecture.svg" alt="architecture/"/></p>
 <p align="center">
   <img src="assets/stack/microservices-en.svg" alt="Microservices"/>
   <img src="assets/stack/event-driven.svg" alt="Event-driven"/>
@@ -169,7 +169,7 @@ I'm Juan David Gaitán, a software architect based in Pereira, Colombia.
   <img src="assets/stack/rest-en.svg" alt="RESTful APIs"/>
 </p>
 
-<p align="center"><samp>cloud/</samp></p>
+<p align="center"><img src="assets/labels/cloud.svg" alt="cloud/"/></p>
 <p align="center">
   <img src="assets/stack/gcp.svg" alt="Google Cloud Platform"/>
   <img src="assets/stack/cloud-functions.svg" alt="Cloud Functions"/>
@@ -181,7 +181,7 @@ I'm Juan David Gaitán, a software architect based in Pereira, Colombia.
   <img src="assets/stack/cloudflare.svg" alt="Cloudflare"/>
 </p>
 
-<p align="center"><samp>backend/</samp></p>
+<p align="center"><img src="assets/labels/backend.svg" alt="backend/"/></p>
 <p align="center">
   <img src="assets/stack/nodejs.svg" alt="Node.js"/>
   <img src="assets/stack/python.svg" alt="Python"/>
@@ -191,7 +191,7 @@ I'm Juan David Gaitán, a software architect based in Pereira, Colombia.
   <img src="assets/stack/rabbitmq.svg" alt="RabbitMQ"/>
 </p>
 
-<p align="center"><samp>data/</samp></p>
+<p align="center"><img src="assets/labels/data.svg" alt="data/"/></p>
 <p align="center">
   <img src="assets/stack/postgresql.svg" alt="PostgreSQL"/>
   <img src="assets/stack/supabase.svg" alt="Supabase"/>
@@ -201,7 +201,7 @@ I'm Juan David Gaitán, a software architect based in Pereira, Colombia.
   <img src="assets/stack/sql.svg" alt="SQL"/>
 </p>
 
-<p align="center"><samp>ai-automation/</samp></p>
+<p align="center"><img src="assets/labels/ai-automation.svg" alt="ai-automation/"/></p>
 <p align="center">
   <img src="assets/stack/n8n.svg" alt="n8n"/>
   <img src="assets/stack/llm-en.svg" alt="LLM integration"/>
@@ -211,7 +211,7 @@ I'm Juan David Gaitán, a software architect based in Pereira, Colombia.
   <img src="assets/stack/prompting.svg" alt="Prompt engineering"/>
 </p>
 
-<p align="center"><samp>frontend/</samp></p>
+<p align="center"><img src="assets/labels/frontend.svg" alt="frontend/"/></p>
 <p align="center">
   <img src="assets/stack/nextjs.svg" alt="Next.js"/>
   <img src="assets/stack/react.svg" alt="React"/>
