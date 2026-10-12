@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179 40" width="179" height="40" role="img" aria-labelledby="t d">
-  <title id="t">$ ls tech-stack/</title>
-  <desc id="d">Encabezado de terminal: ls tech-stack/</desc>
-  <rect x="0.5" y="0.5" width="178" height="39" rx="8" fill="#0b141f" stroke="#1e3247"/>
-  <text x="16" y="25.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#5ec8c0">$</text>
-  <text x="35" y="25.5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="600" fill="#e7eef4" textLength="126.0" lengthAdjust="spacingAndGlyphs">ls tech-stack/</text>
-</svg>

@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 36" width="130" height="36" role="img" aria-labelledby="t d">
-  <title id="t">RESTful APIs</title>
-  <desc id="d">Etiqueta de tecnología: RESTful APIs</desc>
-  <rect x="2.5" y="2.5" width="125" height="31" rx="6" fill="#101b29" stroke="#1e3247"/>
-  <g transform="translate(12 10) scale(0.6666666666666666)" fill="none" stroke="#90a6ba" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 16.98h-5.99c-1.1 0-1.95.94-2.48 1.9A4 4 0 0 1 2 17c.01-.7.2-1.4.57-2"/><path d="m6 17 3.13-5.78c.53-.97.1-2.18-.5-3.1a4 4 0 1 1 6.89-4.06"/><path d="m12 6 3.13 5.73C15.66 12.7 16.9 13 18 13a4 4 0 0 1 0 8"/></g>
-  <text x="36" y="22.5" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#e7eef4" textLength="79.5" lengthAdjust="spacingAndGlyphs">RESTful APIs</text>
-</svg>

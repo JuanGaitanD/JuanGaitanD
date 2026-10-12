@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 131 36" width="131" height="36" role="img" aria-labelledby="t d">
-  <title id="t">Vector search</title>
-  <desc id="d">Etiqueta de tecnología: Vector search</desc>
-  <rect x="2.5" y="2.5" width="126" height="31" rx="6" fill="#101b29" stroke="#1e3247"/>
-  <g transform="translate(12 10) scale(0.6666666666666666)" fill="none" stroke="#90a6ba" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7V5a2 2 0 0 1 2-2h2"/><path d="M17 3h2a2 2 0 0 1 2 2v2"/><path d="M21 17v2a2 2 0 0 1-2 2h-2"/><path d="M7 21H5a2 2 0 0 1-2-2v-2"/><circle cx="12" cy="12" r="3"/><path d="m16 16-1.9-1.9"/></g>
-  <text x="36" y="22.5" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#e7eef4" textLength="80.2" lengthAdjust="spacingAndGlyphs">Vector search</text>
-</svg>

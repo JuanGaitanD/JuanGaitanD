@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 36" width="130" height="36" role="img" aria-labelledby="t d">
-  <title id="t">Microservices</title>
-  <desc id="d">Etiqueta de tecnología: Microservices</desc>
-  <rect x="2.5" y="2.5" width="125" height="31" rx="6" fill="#e6eff3" stroke="#d1e0e8"/>
-  <g transform="translate(12 10) scale(0.6666666666666666)" fill="none" stroke="#4a6072" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 22V7a1 1 0 0 0-1-1H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5a1 1 0 0 0-1-1H2"/><rect x="14" y="2" width="8" height="8" rx="1"/></g>
-  <text x="36" y="22.5" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#0b141f" textLength="79.4" lengthAdjust="spacingAndGlyphs">Microservices</text>
-</svg>

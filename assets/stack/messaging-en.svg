@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199 36" width="199" height="36" role="img" aria-labelledby="t d">
-  <title id="t">Asynchronous messaging</title>
-  <desc id="d">Etiqueta de tecnología: Asynchronous messaging</desc>
-  <rect x="2.5" y="2.5" width="194" height="31" rx="6" fill="#101b29" stroke="#1e3247"/>
-  <g transform="translate(12 10) scale(0.6666666666666666)" fill="none" stroke="#90a6ba" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 10a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 14.286V4a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/><path d="M20 9a2 2 0 0 1 2 2v10.286a.71.71 0 0 1-1.212.502l-2.202-2.202A2 2 0 0 0 17.172 19H10a2 2 0 0 1-2-2v-1"/></g>
-  <text x="36" y="22.5" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#e7eef4" textLength="148.8" lengthAdjust="spacingAndGlyphs">Asynchronous messaging</text>
-</svg>
