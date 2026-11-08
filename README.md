@@ -30,7 +30,7 @@ Soy Juan David Gaitán, arquitecto de software en Pereira, Colombia.
 
 **Asesorías de arquitectura.** Asesoro equipos de desarrollo. Una muestra: tres APIs con microservicios, una base de datos por API y mensajería asíncrona con RabbitMQ.
 
-**Código público.** Mi GitHub reúne proyectos propios como StatLab, KallIt y utilidades de estadística y firma digital.
+**Código público.** Mi GitHub reúne proyectos propios como DYA, StatLab, KallIt y utilidades de estadística y firma digital.
 
 ### Stack operativo
 
@@ -59,6 +59,7 @@ Proyectos con código público en GitHub.
 
 | Proyecto | Descripción | Stack | Código |
 |---|---|---|---|
+| **DYA (Draw your Architecture)** | Dos tipos de proyecto en una sola app: notas sobre una pizarra libre con Excalidraw y diagramas estructurados con React Flow. Autoguardado, enlaces públicos de solo lectura, invitaciones con edición y cursores en tiempo real, y un servidor MCP para que agentes lean y creen notas y diagramas. Licencia Apache-2.0. | React · TypeScript · Firebase · MCP | [drawyourarquitecture](https://github.com/JuanGaitanD/drawyourarquitecture)<br/>[dya.juandgaitan.com](https://dya.juandgaitan.com) |
 | **StatLab**<br/><sub>En proceso</sub> | Calculadora de estadística descriptiva que corre en el navegador. Pegas o importas datos, un asistente te guía en español y StatLab calcula, explica y grafica. Ningún dato sale del dispositivo. | TypeScript | [estadistica-diego](https://github.com/JuanGaitanD/estadistica-diego) |
 | **KallIt** | Llamadas grupales estilo Discord con WebRTC en mesh: audio y pantalla compartida peer-to-peer, sin servidor de medios. Supabase maneja auth, presencia y chat en tiempo real. | React · Supabase · WebRTC | [Comunicaciones-web-app](https://github.com/JuanGaitanD/Comunicaciones-web-app) |
 | **Visión Electoral**<br/><sub>Colaborador</sub> | Encuestas de campo para contexto electoral. App Android offline-first que sincroniza al recuperar señal, API en Express con MongoDB y dashboard en Angular con estadísticas por rol. Repositorio de un tercero en el que participé. | Kotlin · Angular · Node.js · MongoDB | [vision-electoral](https://github.com/MiloAgudelo/vision-electoral) |
@@ -96,7 +97,7 @@ I'm Juan David Gaitán, a software architect based in Pereira, Colombia.
 
 **Architecture consulting.** I advise development teams. One example: three APIs with microservices, one database per API and asynchronous messaging with RabbitMQ.
 
-**Public code.** My GitHub holds personal projects such as StatLab, KallIt and statistics and digital signature tools.
+**Public code.** My GitHub holds personal projects such as DYA, StatLab, KallIt and statistics and digital signature tools.
 
 ### Working stack
 
@@ -125,6 +126,7 @@ Projects with public code on GitHub.
 
 | Project | Description | Stack | Code |
 |---|---|---|---|
+| **DYA (Draw your Architecture)** | Two project types in one app: notes on a free-form whiteboard built with Excalidraw and structured diagrams built with React Flow. Autosave, read-only public links, invitations with real-time editing and cursors, and an MCP server so agents can read and create notes and diagrams. Apache-2.0 license. | React · TypeScript · Firebase · MCP | [drawyourarquitecture](https://github.com/JuanGaitanD/drawyourarquitecture)<br/>[dya.juandgaitan.com](https://dya.juandgaitan.com) |
 | **StatLab**<br/><sub>In progress</sub> | Descriptive statistics calculator that runs in the browser. You paste or import data, a wizard guides you in Spanish and StatLab calculates, explains and plots. No data leaves the device. | TypeScript | [estadistica-diego](https://github.com/JuanGaitanD/estadistica-diego) |
 | **KallIt** | Discord-style group calls with mesh WebRTC: peer-to-peer audio and screen sharing, no media server. Supabase handles auth, presence and real-time chat. | React · Supabase · WebRTC | [Comunicaciones-web-app](https://github.com/JuanGaitanD/Comunicaciones-web-app) |
 | **Visión Electoral**<br/><sub>Contributor</sub> | Field surveys for an electoral context. Offline-first Android app that syncs when signal returns, Express API with MongoDB and an Angular dashboard with statistics by role. A third party's repository where I took part. | Kotlin · Angular · Node.js · MongoDB | [vision-electoral](https://github.com/MiloAgudelo/vision-electoral) |
