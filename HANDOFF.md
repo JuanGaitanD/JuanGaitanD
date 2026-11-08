@@ -6,7 +6,8 @@ README bilingüe, banner y foto de perfil.
 
 ## Lo que sigue
 
-- Cuando existan los subdominios de `juandgaitan.com` para las demos de open source, agregarlos a la tabla.
+- Cuando existan los subdominios de `juandgaitan.com` para las demos de open source, agregarlos a la tabla (DYA ya lleva el suyo).
+- No hacer push de la fila de DYA hasta que `main` de `JuanGaitanD/drawyourarquitecture` tenga el código (hoy solo la licencia).
 
 ## Decisiones
 
