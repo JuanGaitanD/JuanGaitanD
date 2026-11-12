@@ -6,7 +6,7 @@ README bilingüe, banner y foto de perfil.
 
 ## Lo que sigue
 
-- Cuando existan los subdominios de `juandgaitan.com` para las demos de open source, agregarlos a la tabla (DYA ya lleva el suyo).
+- Cuando existan los subdominios de `juandgaitan.com` para las demos de open source, agregarlos a la tabla (DYA y Encuestas ya llevan el suyo).
 
 ## Decisiones
 
